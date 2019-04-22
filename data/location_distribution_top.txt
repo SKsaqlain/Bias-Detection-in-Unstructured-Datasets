@@ -1,0 +1,469 @@
+ 636 U.S.
+ 525 United States
+ 304 California
+ 240 Europe
+ 232 Florida
+ 214 New York
+ 193 Iraq
+ 190 America
+ 186 Texas
+ 186 Germany
+ 167 Washington
+ 118 France
+  94 Romania
+  92 US
+  92 UK
+  92 Georgia
+  89 Pennsylvania
+  89 Illinois
+  88 New Jersey
+  87 Ohio
+  84 Virginia
+  84 Massachusetts
+  84 London
+  82 Russia
+  81 Israel
+  80 Indiana
+  79 North Carolina
+  78 Michigan
+  76 Barton
+  76 Afghanistan
+  74 Italy
+  74 Iran
+  73 Maryland
+  68 New York City
+  66 Tennessee
+  65 Washington, D.C.
+  65 Alabama
+  64 Paris
+  64 Minnesota
+  63 Chicago
+  61 Poland
+  61 Arizona
+  57 Denham
+  57 Colorado
+  56 Brussels
+  55 Spain
+  55 South Carolina
+  55 Britain
+  53 Upton
+  52 India
+  50 Ireland
+  48 Wisconsin
+  47 Hungary
+  47 Bulgaria
+  46 United Kingdom
+  45 Netherlands
+  45 Louisiana
+  45 Jordan
+  44 Missouri
+  44 Kentucky
+  44 Connecticut
+  42 Finland
+  42 Cuba
+  40 Oregon
+  40 Los Angeles
+  40 Greece
+  40 England
+  40 EU
+  38 Nevada
+  37 Mississippi
+  37 Mexico
+  37 Austria
+  36 Iowa
+  34 Lithuania
+  34 China
+  33 Utah
+  33 Houston
+  33 Belgium
+  32 Vietnam
+  32 Sweden
+  32 Canadian
+  31 Ukraine
+  31 Syria
+  31 Canada
+  31 Arrington
+  30 San Francisco
+  30 New Hampshire
+  30 Kansas
+  30 Denmark
+  29 Rome
+  29 Latvia
+  28 Northern Ireland
+  28 Croatia
+  28 Boston
+  27 Bucharest
+  27 Arkansas
+  26 Wales
+  26 Richmond
+  26 Pakistan
+  26 Berlin
+  26 Bacon
+  25 Turkey
+  25 Scotland
+  25 Puerto Rico
+  25 Luxembourg
+  25 Libya
+  25 Japan
+  25 Australia
+  24 Oklahoma
+  24 Middle East
+  24 Hawaii
+  24 Czech Republic
+  23 Philadelphia
+  23 Cyprus
+  23 Alaska
+  22 Rhode Island
+  22 Portugal
+  22 New Mexico
+  22 Hill
+  22 Dallas
+  22 Austin
+  21 Warsaw
+  21 Maine
+  21 D.C.
+  20 Slovenia
+  20 San Diego
+  20 Nashville
+  20 Idaho
+  20 Etheridge
+  20 District of Columbia
+  20 Brooklyn
+  20 Africa
+  19 Tipton
+  19 Queens
+  19 Memphis
+  19 Delaney
+  19 Birmingham
+  19 Beyer
+  18 Yemen
+  18 Vargas
+  18 Titus
+  18 Providence
+  18 Lucas
+  18 Guthrie
+  18 Detroit
+  18 Charlotte
+  17 Western Sahara
+  17 Vermont
+  17 USA
+  17 Springfield
+  17 South Africa
+  17 Slovakia
+  17 Nebraska
+  17 Minneapolis
+  17 Malta
+  17 Baltimore
+  16 West Virginia
+  16 South East England
+  16 San Antonio
+  16 Oxford
+  16 Montana
+  16 Mediterranean
+  16 Lower Saxony
+  16 Kazakhstan
+  16 Cleveland
+  16 Budapest
+  16 Athens
+  15 Yorkshire
+  15 St. Louis
+  15 Sofia
+  15 Republic of China
+  15 North Korea
+  15 Lebanon
+  15 Estonia
+  15 Dublin
+  15 Denver
+  15 Crawford
+  14 Russian
+  14 Portland
+  14 Pittsburgh
+  14 Miami
+  14 Kosovo
+  14 Guam
+  14 Dayton
+  14 Bronx
+  14 Brazil
+  13 West Point
+  13 South Dakota
+  13 North Dakota
+  13 Indianapolis
+  13 County
+  13 Charleston
+  12 Worcester
+  12 Vienna
+  12 Taiwan
+  12 Southeast Asia
+  12 Saudi Arabia
+  12 Roma
+  12 Prague
+  12 Poznań
+  12 Peru
+  12 New York State
+  12 Midlands
+  12 Madrid
+  12 Las Vegas
+  12 Kansas City
+  12 Haiti
+  12 Fort Worth
+  12 Cárdenas
+  12 Columbus
+  12 Columbia
+  12 Buffalo
+  12 Armenia
+  11 South Asia
+  11 Pacific
+  11 Munich
+  11 Moscow
+  11 Marchant
+  11 Hudson
+  11 Greensboro
+  11 Fresno
+  11 Delaware
+  11 Colombia
+  11 Central America
+  11 Bosnia and Herzegovina
+  11 Barcelona
+  11 Azerbaijan
+  11 Atlanta
+  11 Atkinson
+  10 Wyoming
+  10 Wright
+  10 Winkler
+  10 Venezuela
+  10 Tucson
+  10 Switzerland
+  10 Peoria
+  10 North West
+  10 New Zealand
+  10 Nassau County
+  10 Nassau
+  10 Morocco
+  10 Montgomery County
+  10 Montgomery
+  10 Moldova
+  10 Lisbon
+  10 Jacksonville
+  10 Harvard
+  10 Georgetown
+  10 Fiji
+  10 El Paso
+  10 Czechoslovakia
+  10 Congo
+  10 Caribbean
+   9 Washington D.C.
+   9 United States of America
+   9 Sudan
+   9 Strasbourg
+   9 St. Petersburg
+   9 Saxony
+   9 Salem
+   9 Orlando
+   9 Orange County
+   9 Newark
+   9 New Orleans
+   9 Milan
+   9 Lexington
+   9 Latin America
+   9 Kilmer
+   9 Geneva
+   9 GM
+   9 Edinburgh
+   9 Cambridge
+   9 Bosnia
+   9 Basque Country
+   9 Argentina
+   9 American Samoa
+   8 West Palm Beach
+   8 Tokyo
+   8 South Korea
+   8 Sacramento
+   8 Rochester
+   8 Riigikogu
+   8 Republic of Poland
+   8 Region of Murcia
+   8 Qatar
+   8 Phoenix
+   8 Norway
+   8 Manhattan
+   8 Madison
+   8 Long Island
+   8 Liverpool
+   8 Lima
+   8 Knoxville
+   8 Kent
+   8 Jerusalem
+   8 Florence
+   8 Eastern Europe
+   8 Cincinnati
+   8 Benghazi
+   8 Asia
+   8 Antwerp
+   8 Albany
+   7 Utrecht
+   7 Toronto
+   7 Toledo
+   7 Tampa
+   7 Tallinn
+   7 Tallahassee
+   7 Syriza
+   7 Stark
+   7 Sri Lanka
+   7 Spokane
+   7 South Bend
+   7 Somerville
+   7 Sessions
+   7 Serbia
+   7 Seattle
+   7 Sanford
+   7 San Diego County
+   7 Republic
+   7 Provo
+   7 Price
+   7 Powell
+   7 Paterson
+   7 North Vietnam
+   7 New Haven
+   7 Murcia
+   7 Moravia
+   7 Matthews
+   7 Manchester
+   7 Major
+   7 Lyon
+   7 Latina
+   7 Laguna Niguel
+   7 Huntsville
+   7 Greenville
+   7 Glendale
+   7 Glasgow
+   7 Essex
+   7 Egypt
+   7 Darfur
+   7 Dalli
+   7 Concord
+   7 Colbert
+   7 Chattanooga
+   7 Chapel Hill
+   7 Carver
+   7 Capitol Hill
+   7 Băsescu
+   7 Brighton
+   7 Bologna
+   7 Berkeley
+   7 Belarus
+   7 Bavaria
+   7 Bartlett
+   7 Amsterdam
+   7 Albania
+   6 Yvelines
+   6 Yugoslavia
+   6 Wrocław
+   6 Westminster
+   6 Western New York
+   6 Virgin Islands
+   6 Veneto
+   6 Tuscany
+   6 Tulare County
+   6 South Vietnam
+   6 Somalia
+   6 Sarajevo
+   6 Rothman
+   6 Pasadena
+   6 Parkland
+   6 Panama
+   6 Oakland
+   6 New England
+   6 Naples
+   6 Milwaukee
+   6 Los Angeles County
+   6 Long Beach
+   6 Lincoln
+   6 Köln
+   6 Kuwait
+   6 Jamaica
+   6 Helsinki
+   6 Hazleton
+   6 Hamburg
+   6 Guantanamo Bay
+   6 Gaza
+   6 Fresno County
+   6 France.
+   6 Fort Lauderdale
+   6 Foley
+   6 Flint
+   6 Federal Republic of Germany
+   6 Camden
+   6 Brownsville
+   6 Brinkley
+   6 Bratislava
+   6 Bakersfield
+   6 Ashley
+   6 Argentine
+   6 Algeria
+   5 Williamson County
+   5 West New York
+   5 West Germany
+   5 Webb County
+   5 Walsh
+   5 Victoria
+   5 Tyler
+   5 Timișoara
+   5 Tibet
+   5 Thessaloniki
+   5 Thailand
+   5 Tel Aviv
+   5 Suffolk
+   5 Staten Island
+   5 St. Paul
+   5 South West England
+   5 South Boston
+   5 Singapore
+   5 Shelby County
+   5 Santa Fe
+   5 San Jose
+   5 Rockford
+   5 Raleigh
+   5 Philippines
+   5 Padua
+   5 Osijek
+   5 Ontario
+   5 North East England
+   5 North America
+   5 Norfolk
+   5 Morán
+   5 Macon
+   5 La Crosse
+   5 Komen
+   5 Jonesboro
+   5 Johnson City
+   5 Hunedoara
+   5 Honolulu
+   5 Hartford
+   5 Hanover
+   5 Hamilton
+   5 Gulf Coast
+   5 Great Britain
+   5 Gdańsk
+   5 Frankfurt
+   5 Flanders
+   5 Everglades
+   5 Düsseldorf
+   5 Dominican Republic
+   5 Deutschland
+   5 Damascus
+   5 Colorado Springs
+   5 Chile
+   5 Charlottesville
+   5 Catalonia
+   5 Bristol
+   5 Bradley
+   5 Baton Rouge
+   5 Bangladesh
+   5 Balkans
+   5 Baghdad
+   5 Baden-Württemberg
+   5 Aurora
+   5 Arlington
+   5 Arizona Republic
+   5 Arab Peninsula
+   5 Akron

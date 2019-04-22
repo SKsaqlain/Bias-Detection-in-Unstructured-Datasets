@@ -1,0 +1,82 @@
+  39 jewish
+  32 christian
+  29 catholic
+  25 roman catholic
+  17 muslim
+  15 islam
+   8 nation of islam
+   7 cult
+   6 mormon
+   6 christianity
+   6 catholic church
+   5 tibet
+   5 hindu
+   4 southern baptist
+   4 roman catholic church
+   3 united methodist church
+   3 united church of christ
+   3 the episcopal church
+   3 quaker
+   3 presbyterian
+   3 methodist
+   3 lutheran
+   3 church of sweden
+   3 catholicism
+   2 sikh
+   2 siberian
+   2 protestant
+   2 orthodox
+   2 nondenominational
+   2 non-denominational christian
+   2 lds
+   2 judaism
+   2 jew
+   2 jesuit
+   2 hinduism
+   2 falun gong
+   2 evangelical
+   2 episcopalian
+   2 church of england
+   2 buddhist
+   2 baptist
+   2 assemblies of god
+   1 yoga
+   1 wisconsin evangelical lutheran synod
+   1 united methodist
+   1 united church of canada
+   1 unitarian universalist
+   1 unitarian
+   1 unification church
+   1 secular humanism
+   1 scientology
+   1 romanian orthodox church
+   1 romanian orthodox
+   1 roman catholic convert
+   1 reformed church
+   1 reconstructionist judaism
+   1 protestantism
+   1 presbyterian church
+   1 orthodox jewish
+   1 orthodox christian
+   1 nonreligious
+   1 non-theist
+   1 non-denominational protestant christian
+   1 jewish renewal
+   1 jeffersonian republican
+   1 hasidic judaism
+   1 greek orthodox
+   1 greek catholic
+   1 gaudiya vaishnavism
+   1 freethought
+   1 evangelical christian
+   1 covenant
+   1 congregational
+   1 church of scotland
+   1 christian scientist
+   1 chaldean catholic
+   1 calvinist
+   1 atheist
+   1 assyrian christian
+   1 associate reformed presbyterian
+   1 anglican
+   1 ahmadiyya

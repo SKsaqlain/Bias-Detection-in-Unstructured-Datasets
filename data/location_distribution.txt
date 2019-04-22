@@ -1,0 +1,5074 @@
+ 636 U.S.
+ 525 United States
+ 304 California
+ 240 Europe
+ 232 Florida
+ 214 New York
+ 193 Iraq
+ 190 America
+ 186 Texas
+ 186 Germany
+ 167 Washington
+ 118 France
+  94 Romania
+  92 US
+  92 UK
+  92 Georgia
+  89 Pennsylvania
+  89 Illinois
+  88 New Jersey
+  87 Ohio
+  84 Virginia
+  84 Massachusetts
+  84 London
+  82 Russia
+  81 Israel
+  80 Indiana
+  79 North Carolina
+  78 Michigan
+  76 Barton
+  76 Afghanistan
+  74 Italy
+  74 Iran
+  73 Maryland
+  68 New York City
+  66 Tennessee
+  65 Washington, D.C.
+  65 Alabama
+  64 Paris
+  64 Minnesota
+  63 Chicago
+  61 Poland
+  61 Arizona
+  57 Denham
+  57 Colorado
+  56 Brussels
+  55 Spain
+  55 South Carolina
+  55 Britain
+  53 Upton
+  52 India
+  50 Ireland
+  48 Wisconsin
+  47 Hungary
+  47 Bulgaria
+  46 United Kingdom
+  45 Netherlands
+  45 Louisiana
+  45 Jordan
+  44 Missouri
+  44 Kentucky
+  44 Connecticut
+  42 Finland
+  42 Cuba
+  40 Oregon
+  40 Los Angeles
+  40 Greece
+  40 England
+  40 EU
+  38 Nevada
+  37 Mississippi
+  37 Mexico
+  37 Austria
+  36 Iowa
+  34 Lithuania
+  34 China
+  33 Utah
+  33 Houston
+  33 Belgium
+  32 Vietnam
+  32 Sweden
+  32 Canadian
+  31 Ukraine
+  31 Syria
+  31 Canada
+  31 Arrington
+  30 San Francisco
+  30 New Hampshire
+  30 Kansas
+  30 Denmark
+  29 Rome
+  29 Latvia
+  28 Northern Ireland
+  28 Croatia
+  28 Boston
+  27 Bucharest
+  27 Arkansas
+  26 Wales
+  26 Richmond
+  26 Pakistan
+  26 Berlin
+  26 Bacon
+  25 Turkey
+  25 Scotland
+  25 Puerto Rico
+  25 Luxembourg
+  25 Libya
+  25 Japan
+  25 Australia
+  24 Oklahoma
+  24 Middle East
+  24 Hawaii
+  24 Czech Republic
+  23 Philadelphia
+  23 Cyprus
+  23 Alaska
+  22 Rhode Island
+  22 Portugal
+  22 New Mexico
+  22 Hill
+  22 Dallas
+  22 Austin
+  21 Warsaw
+  21 Maine
+  21 D.C.
+  20 Slovenia
+  20 San Diego
+  20 Nashville
+  20 Idaho
+  20 Etheridge
+  20 District of Columbia
+  20 Brooklyn
+  20 Africa
+  19 Tipton
+  19 Queens
+  19 Memphis
+  19 Delaney
+  19 Birmingham
+  19 Beyer
+  18 Yemen
+  18 Vargas
+  18 Titus
+  18 Providence
+  18 Lucas
+  18 Guthrie
+  18 Detroit
+  18 Charlotte
+  17 Western Sahara
+  17 Vermont
+  17 USA
+  17 Springfield
+  17 South Africa
+  17 Slovakia
+  17 Nebraska
+  17 Minneapolis
+  17 Malta
+  17 Baltimore
+  16 West Virginia
+  16 South East England
+  16 San Antonio
+  16 Oxford
+  16 Montana
+  16 Mediterranean
+  16 Lower Saxony
+  16 Kazakhstan
+  16 Cleveland
+  16 Budapest
+  16 Athens
+  15 Yorkshire
+  15 St. Louis
+  15 Sofia
+  15 Republic of China
+  15 North Korea
+  15 Lebanon
+  15 Estonia
+  15 Dublin
+  15 Denver
+  15 Crawford
+  14 Russian
+  14 Portland
+  14 Pittsburgh
+  14 Miami
+  14 Kosovo
+  14 Guam
+  14 Dayton
+  14 Bronx
+  14 Brazil
+  13 West Point
+  13 South Dakota
+  13 North Dakota
+  13 Indianapolis
+  13 County
+  13 Charleston
+  12 Worcester
+  12 Vienna
+  12 Taiwan
+  12 Southeast Asia
+  12 Saudi Arabia
+  12 Roma
+  12 Prague
+  12 Poznań
+  12 Peru
+  12 New York State
+  12 Midlands
+  12 Madrid
+  12 Las Vegas
+  12 Kansas City
+  12 Haiti
+  12 Fort Worth
+  12 Cárdenas
+  12 Columbus
+  12 Columbia
+  12 Buffalo
+  12 Armenia
+  11 South Asia
+  11 Pacific
+  11 Munich
+  11 Moscow
+  11 Marchant
+  11 Hudson
+  11 Greensboro
+  11 Fresno
+  11 Delaware
+  11 Colombia
+  11 Central America
+  11 Bosnia and Herzegovina
+  11 Barcelona
+  11 Azerbaijan
+  11 Atlanta
+  11 Atkinson
+  10 Wyoming
+  10 Wright
+  10 Winkler
+  10 Venezuela
+  10 Tucson
+  10 Switzerland
+  10 Peoria
+  10 North West
+  10 New Zealand
+  10 Nassau County
+  10 Nassau
+  10 Morocco
+  10 Montgomery County
+  10 Montgomery
+  10 Moldova
+  10 Lisbon
+  10 Jacksonville
+  10 Harvard
+  10 Georgetown
+  10 Fiji
+  10 El Paso
+  10 Czechoslovakia
+  10 Congo
+  10 Caribbean
+   9 Washington D.C.
+   9 United States of America
+   9 Sudan
+   9 Strasbourg
+   9 St. Petersburg
+   9 Saxony
+   9 Salem
+   9 Orlando
+   9 Orange County
+   9 Newark
+   9 New Orleans
+   9 Milan
+   9 Lexington
+   9 Latin America
+   9 Kilmer
+   9 Geneva
+   9 GM
+   9 Edinburgh
+   9 Cambridge
+   9 Bosnia
+   9 Basque Country
+   9 Argentina
+   9 American Samoa
+   8 West Palm Beach
+   8 Tokyo
+   8 South Korea
+   8 Sacramento
+   8 Rochester
+   8 Riigikogu
+   8 Republic of Poland
+   8 Region of Murcia
+   8 Qatar
+   8 Phoenix
+   8 Norway
+   8 Manhattan
+   8 Madison
+   8 Long Island
+   8 Liverpool
+   8 Lima
+   8 Knoxville
+   8 Kent
+   8 Jerusalem
+   8 Florence
+   8 Eastern Europe
+   8 Cincinnati
+   8 Benghazi
+   8 Asia
+   8 Antwerp
+   8 Albany
+   7 Utrecht
+   7 Toronto
+   7 Toledo
+   7 Tampa
+   7 Tallinn
+   7 Tallahassee
+   7 Syriza
+   7 Stark
+   7 Sri Lanka
+   7 Spokane
+   7 South Bend
+   7 Somerville
+   7 Sessions
+   7 Serbia
+   7 Seattle
+   7 Sanford
+   7 San Diego County
+   7 Republic
+   7 Provo
+   7 Price
+   7 Powell
+   7 Paterson
+   7 North Vietnam
+   7 New Haven
+   7 Murcia
+   7 Moravia
+   7 Matthews
+   7 Manchester
+   7 Major
+   7 Lyon
+   7 Latina
+   7 Laguna Niguel
+   7 Huntsville
+   7 Greenville
+   7 Glendale
+   7 Glasgow
+   7 Essex
+   7 Egypt
+   7 Darfur
+   7 Dalli
+   7 Concord
+   7 Colbert
+   7 Chattanooga
+   7 Chapel Hill
+   7 Carver
+   7 Capitol Hill
+   7 Băsescu
+   7 Brighton
+   7 Bologna
+   7 Berkeley
+   7 Belarus
+   7 Bavaria
+   7 Bartlett
+   7 Amsterdam
+   7 Albania
+   6 Yvelines
+   6 Yugoslavia
+   6 Wrocław
+   6 Westminster
+   6 Western New York
+   6 Virgin Islands
+   6 Veneto
+   6 Tuscany
+   6 Tulare County
+   6 South Vietnam
+   6 Somalia
+   6 Sarajevo
+   6 Rothman
+   6 Pasadena
+   6 Parkland
+   6 Panama
+   6 Oakland
+   6 New England
+   6 Naples
+   6 Milwaukee
+   6 Los Angeles County
+   6 Long Beach
+   6 Lincoln
+   6 Köln
+   6 Kuwait
+   6 Jamaica
+   6 Helsinki
+   6 Hazleton
+   6 Hamburg
+   6 Guantanamo Bay
+   6 Gaza
+   6 Fresno County
+   6 France.
+   6 Fort Lauderdale
+   6 Foley
+   6 Flint
+   6 Federal Republic of Germany
+   6 Camden
+   6 Brownsville
+   6 Brinkley
+   6 Bratislava
+   6 Bakersfield
+   6 Ashley
+   6 Argentine
+   6 Algeria
+   5 Williamson County
+   5 West New York
+   5 West Germany
+   5 Webb County
+   5 Walsh
+   5 Victoria
+   5 Tyler
+   5 Timișoara
+   5 Tibet
+   5 Thessaloniki
+   5 Thailand
+   5 Tel Aviv
+   5 Suffolk
+   5 Staten Island
+   5 St. Paul
+   5 South West England
+   5 South Boston
+   5 Singapore
+   5 Shelby County
+   5 Santa Fe
+   5 San Jose
+   5 Rockford
+   5 Raleigh
+   5 Philippines
+   5 Padua
+   5 Osijek
+   5 Ontario
+   5 North East England
+   5 North America
+   5 Norfolk
+   5 Morán
+   5 Macon
+   5 La Crosse
+   5 Komen
+   5 Jonesboro
+   5 Johnson City
+   5 Hunedoara
+   5 Honolulu
+   5 Hartford
+   5 Hanover
+   5 Hamilton
+   5 Gulf Coast
+   5 Great Britain
+   5 Gdańsk
+   5 Frankfurt
+   5 Flanders
+   5 Everglades
+   5 Düsseldorf
+   5 Dominican Republic
+   5 Deutschland
+   5 Damascus
+   5 Colorado Springs
+   5 Chile
+   5 Charlottesville
+   5 Catalonia
+   5 Bristol
+   5 Bradley
+   5 Baton Rouge
+   5 Bangladesh
+   5 Balkans
+   5 Baghdad
+   5 Baden-Württemberg
+   5 Aurora
+   5 Arlington
+   5 Arizona Republic
+   5 Arab Peninsula
+   5 Akron
+   4 Île-de-France
+   4 the Netherlands
+   4 laws
+   4 house
+   4 grave
+   4 golf
+   4 counselor
+   4 council
+   4 compromise
+   4 Zala
+   4 Youngstown
+   4 West Berlin
+   4 West Bank
+   4 Warren
+   4 Ward
+   4 Wall Street
+   4 Vernon
+   4 Vancouver
+   4 Turin
+   4 Tulsa
+   4 Torrance
+   4 Thackeray
+   4 Taylorville
+   4 Tarrant
+   4 Sullivan's Island
+   4 Southern California
+   4 Soru
+   4 Silicon Valley
+   4 Sicily
+   4 Siberia
+   4 Shelbyville
+   4 Sheffield
+   4 Scranton
+   4 Scottsdale
+   4 Schilling
+   4 Sardinia
+   4 Sarasota County
+   4 Santa Barbara
+   4 San Juan
+   4 Salt Lake City
+   4 Salazar
+   4 Saint-Denis
+   4 Sacramento County
+   4 Rotterdam
+   4 Roanoke
+   4 Revolution
+   4 Quebec
+   4 Prince George
+   4 Portsmouth
+   4 Philosophy
+   4 Persian Gulf
+   4 Palm Beach County
+   4 PRC
+   4 Orange
+   4 Oberlin
+   4 Obergefell
+   4 NumbersUSA
+   4 Nottara
+   4 Northup
+   4 North Rhine-Westphalia
+   4 Newburgh
+   4 New Caledonia
+   4 New
+   4 Nagorno-Karabakh
+   4 Mobile
+   4 Miss
+   4 Midwest
+   4 Midland
+   4 Middle District of
+   4 Miami-Dade County
+   4 Miami Beach
+   4 Merrillville
+   4 McDonald
+   4 McAvan
+   4 Mason
+   4 Macovei
+   4 Macedonia
+   4 Lundgren
+   4 Lubbock
+   4 Long
+   4 Locke
+   4 Liège
+   4 Liguria
+   4 Lewis County
+   4 Lafayette
+   4 Kraków
+   4 Korea
+   4 Kingston
+   4 Kenya
+   4 Katowice
+   4 Jonestown
+   4 Jefferson City
+   4 Janesville
+   4 Isle of Man
+   4 Inglis
+   4 Illinois State
+   4 IX
+   4 IV
+   4 Hong Kong
+   4 Holland
+   4 Herrera
+   4 Hayward
+   4 Harrisburg
+   4 Harris County
+   4 Harper
+   4 Gulf
+   4 Graham
+   4 GAO
+   4 Franklin
+   4 Fortenberry
+   4 Fairfax County
+   4 Ethiopia
+   4 Erie County
+   4 Englewood
+   4 El Salvador
+   4 El Cajon
+   4 Edina
+   4 East Midlands
+   4 East Asia
+   4 Durbin
+   4 Dubuque
+   4 Dubrovnik
+   4 Del.
+   4 Decatur
+   4 DOMA
+   4 Cottrell
+   4 City of London
+   4 City
+   4 Chester
+   4 Charles
+   4 Central Valley
+   4 Central Florida
+   4 Carrollton
+   4 Cape Cod
+   4 Canton
+   4 Campania
+   4 Cambodia
+   4 CNMI
+   4 Broadway
+   4 Bradford
+   4 Bordeaux
+   4 Bootle
+   4 Bonn
+   4 Bonilla
+   4 Bloomington
+   4 Bible
+   4 Bell
+   4 Baltimore County
+   4 Bahrain
+   4 Augusta
+   4 Asheville
+   4 Arthur
+   4 Arctic National Wildlife Refuge
+   4 Apulia
+   4 32nd congressional district
+   4 13769
+   4 ,
+   3 treaty
+   3 the settlement
+   3 sort
+   3 sixteen
+   3 sisters
+   3 priest
+   3 poverty
+   3 polling
+   3 points
+   3 payment
+   3 independents
+   3 decorum
+   3 confidence
+   3 chambers
+   3 bond
+   3 appeal
+   3 agenda
+   3 Zagreb
+   3 Woolfe
+   3 Winter Garden
+   3 Winston-Salem
+   3 Wilmington
+   3 Wilkes-Barre
+   3 Wichita
+   3 White Plains
+   3 Weston
+   3 Westchester County
+   3 West Flanders
+   3 West Bend
+   3 Weld County
+   3 Weiner
+   3 Wayne County
+   3 Watertown
+   3 Washington DC
+   3 Walloon Brabant
+   3 Wallace
+   3 Vilnius
+   3 Venice
+   3 Veltroni
+   3 Vatican
+   3 Valencia
+   3 Uzbekistan
+   3 Upper Marlboro
+   3 Umbria
+   3 Uganda
+   3 Udall
+   3 U.S
+   3 Tunisia
+   3 Tuchola
+   3 Transylvania
+   3 Toulon
+   3 Titanic
+   3 Tirana
+   3 Tinsley
+   3 Tifton
+   3 Thurmond
+   3 Thomasville
+   3 The Hague
+   3 Texas.
+   3 Tehran
+   3 Tartu
+   3 Tanzania
+   3 Takano
+   3 Szczecin
+   3 Sydney
+   3 Sullivan
+   3 Strayhorn
+   3 Stockton
+   3 Stearns
+   3 Stafford
+   3 St. Helena
+   3 Spartanburg
+   3 Spanish
+   3 Southfield
+   3 Southern
+   3 Southampton
+   3 South Yorkshire
+   3 South West
+   3 South Florida
+   3 South East
+   3 South Coast
+   3 Sierra Leone
+   3 Shreveport
+   3 Schenectady
+   3 Schaake
+   3 San Mateo County
+   3 San Joaquin County
+   3 San Fernando Valley
+   3 Sala
+   3 Saipan
+   3 SC
+   3 Rotherham
+   3 Rohrabacher
+   3 Riverside County
+   3 Riverside
+   3 Rio Grande
+   3 Richmond.
+   3 Rhineland-Palatinate
+   3 Republic of Moldova
+   3 Renzi
+   3 Ray
+   3 Randolph
+   3 REGI
+   3 Quincy
+   3 Quaker
+   3 Punjab
+   3 Pittsburgh.
+   3 Peltier
+   3 Paris.
+   3 Palmdale
+   3 Palestine
+   3 Overland Park
+   3 Oulu
+   3 Ottoman Empire
+   3 Ottawa
+   3 Oradea
+   3 Olympia
+   3 Oklahoma City
+   3 Ohio State
+   3 Odessa
+   3 Oak Park
+   3 O'Donnell
+   3 Norwalk
+   3 Northern California
+   3 Niles
+   3 Nicosia
+   3 Niagara Falls
+   3 New York.
+   3 Nepal
+   3 Nemira
+   3 Nelson
+   3 Naperville
+   3 Nancy
+   3 Nador
+   3 NY
+   3 NORAID
+   3 NJ
+   3 Myrtle Beach
+   3 Mosca
+   3 Morgan
+   3 Montreal
+   3 Monterey Park
+   3 Mons
+   3 Monmouth
+   3 Modena
+   3 Mississippi River
+   3 Misc
+   3 Middlesex County
+   3 Middlesex
+   3 Merseyside
+   3 Meriden
+   3 Merced
+   3 Mecklenburg County
+   3 Matera
+   3 Massa
+   3 Mass
+   3 Mashreq
+   3 Mars
+   3 Manton
+   3 M.S.
+   3 Louisville
+   3 Loiret
+   3 Logan
+   3 Ljubljana
+   3 Limburg
+   3 Limassol
+   3 Lazio
+   3 Law
+   3 Las Palmas
+   3 Landtag
+   3 Lancaster
+   3 Lancashire
+   3 Kyrgyzstan
+   3 Kuster
+   3 Kudrycka
+   3 Korean Peninsula
+   3 Kissimmee River
+   3 Kirkpatrick
+   3 Killarney
+   3 Kenosha
+   3 Kaunas
+   3 Kashmir
+   3 Karas
+   3 Kanjorski
+   3 Johnston County
+   3 Jobbik
+   3 Jackson.
+   3 Irvine
+   3 Iowa City
+   3 Independence
+   3 ID
+   3 Hénin-Beaumont
+   3 Huntington
+   3 Howard County
+   3 Howard
+   3 Honduras
+   3 Hobbs
+   3 Hisel
+   3 Hillsborough County
+   3 Hillsborough
+   3 Heraklion
+   3 Henry
+   3 Henrico County
+   3 Heidelberg
+   3 Hebron
+   3 Hauts-de-Seine
+   3 Hattiesburg
+   3 Hasselt
+   3 Harrington
+   3 Harpole
+   3 Harford County
+   3 Harford
+   3 Hardy
+   3 Hansen
+   3 Hamilton County
+   3 Hainaut
+   3 Hagedorn
+   3 Gulf of Mexico
+   3 Guatemala
+   3 Guantanamo
+   3 Guadalajara
+   3 Groen
+   3 Greenwich
+   3 Greeley
+   3 Grant
+   3 Gramm
+   3 Glen Cove
+   3 Gironde
+   3 Gianforte
+   3 Ghent
+   3 Gering
+   3 Gaza Strip
+   3 Gastonia
+   3 Gainesville
+   3 Fullerton
+   3 French Republic
+   3 French
+   3 Frederick
+   3 Fowler
+   3 Fourth District
+   3 Fountain Hills
+   3 Fort Wayne
+   3 Fort Hood
+   3 Fort Drum
+   3 Flushing
+   3 Flagstaff
+   3 Fifth Republic
+   3 Federley
+   3 Evanston
+   3 Elk Grove
+   3 Elbeuf
+   3 Ehler
+   3 Economy
+   3 Economics
+   3 Eastern Time Zone
+   3 East Moline
+   3 East Hartford
+   3 East Germany
+   3 East Flanders
+   3 Durham
+   3 Duckworth
+   3 Dillon
+   3 Dijon
+   3 Des Moines
+   3 Derry
+   3 Delta
+   3 Del City
+   3 Dale
+   3 Crimea
+   3 Crete
+   3 Craig
+   3 Corona
+   3 Copenhagen
+   3 Contra Costa County
+   3 Constitutional Law
+   3 Confederate
+   3 Commonwealth
+   3 Clark County
+   3 Chiles
+   3 Cheyenne
+   3 Cheshire
+   3 Carson City
+   3 Capital District
+   3 Calcutta
+   3 Cagliari
+   3 Bydgoszcz
+   3 Bustos
+   3 Bulandra
+   3 Broward County
+   3 Bromley
+   3 Brittany
+   3 Brindisi
+   3 Bridgeport
+   3 Brentford
+   3 Bremen
+   3 Bozeman
+   3 Boulder
+   3 Boston.
+   3 Book
+   3 Blagoevgrad
+   3 Black Belt
+   3 Black
+   3 Birmingham City
+   3 Bexar County
+   3 Between
+   3 Bethlehem
+   3 Bermuda
+   3 Belfast
+   3 Beijing
+   3 Bath
+   3 Barnes
+   3 Baltimore City
+   3 Baltic
+   3 Azores
+   3 Ashland
+   3 Ashburn
+   3 Arizona State
+   3 Anglesey
+   3 Andorra
+   3 Anaheim
+   3 Americas
+   3 Almaty
+   3 Allegheny County
+   3 Alexandria
+   3 Alderman
+   3 Alameda County
+   3 Addison
+   3 Ablyazov
+   3 Abercrombie
+   3 AZ
+   3 ADA
+   3 AB
+   3 5th District
+   3 3rd District
+   2 Épinal
+   2 unity
+   2 united Europe
+   2 trainer
+   2 tour
+   2 the valley
+   2 the Valley
+   2 suspension
+   2 suburb
+   2 story
+   2 state of Israel
+   2 south
+   2 running water
+   2 push
+   2 precinct
+   2 power
+   2 persons
+   2 option
+   2 opportunity
+   2 noon
+   2 need
+   2 miner
+   2 merchant
+   2 mechanic
+   2 major
+   2 long run
+   2 island
+   2 honor
+   2 homeland
+   2 guys
+   2 grant
+   2 forester
+   2 fine
+   2 fence
+   2 farmers
+   2 expansion
+   2 exchange
+   2 equality
+   2 early
+   2 duty
+   2 deacon
+   2 de Gran Canaria
+   2 czar
+   2 counts
+   2 cost
+   2 cases
+   2 car
+   2 calls
+   2 cabinet
+   2 brink
+   2 border
+   2 blacks
+   2 bar
+   2 Zimbabwe
+   2 Zeeland
+   2 Zanzibar
+   2 Yukon River
+   2 Ypres
+   2 York County
+   2 York City
+   2 Yabucoa
+   2 Wroclaw
+   2 Woodville
+   2 Woodside
+   2 Wood
+   2 Wolfe
+   2 Winnetka
+   2 Williamsport
+   2 Wild
+   2 Wheaton
+   2 Weymouth
+   2 Westport
+   2 Westmoreland
+   2 Westley
+   2 Western Pennsylvania
+   2 Western Hemisphere
+   2 Western Balkans
+   2 Westchester
+   2 West Tennessee
+   2 West Oak Lane
+   2 West Coast
+   2 West Belfast
+   2 West Africa
+   2 Weld
+   2 Weatherford
+   2 Wayne
+   2 Watts
+   2 Watson
+   2 Waterbury
+   2 Washoe
+   2 Washington State
+   2 Wallonia
+   2 Wallingford
+   2 Wallasey
+   2 Walkinshaw
+   2 Wakefield
+   2 Wadsworth
+   2 Võru
+   2 Voss
+   2 Verhofstadt
+   2 Velika Gorica
+   2 Vas
+   2 Vannes
+   2 Vanderbilt
+   2 Van Meter
+   2 Valence
+   2 Val Verde County
+   2 VU
+   2 Uribe
+   2 Urdu
+   2 Upper West Side
+   2 Upper Peninsula
+   2 Upper East Side
+   2 Università
+   2 Ulster
+   2 Ukip
+   2 Uelzen
+   2 USSR
+   2 US Virgin Islands
+   2 U.S. Virgin Islands
+   2 Tőkés
+   2 Tuscaloosa
+   2 Tucson.
+   2 Troy
+   2 Trinity
+   2 Tri-Cities
+   2 Trenton
+   2 Toulouse
+   2 Togo
+   2 Timisoara
+   2 Tillman
+   2 Thuringia
+   2 Thirty
+   2 The Hill
+   2 Tennessee.
+   2 Tarkio
+   2 Tampa Bay
+   2 Talence
+   2 Takai
+   2 Tacoma
+   2 Ta Nea
+   2 TX
+   2 TD
+   2 Szeged
+   2 Syracuse
+   2 Swissvale
+   2 Sweeney
+   2 Sunnyside
+   2 Sunderland
+   2 Stutensee
+   2 Sturgis
+   2 Stuart
+   2 Strickland
+   2 Storey County
+   2 Stockport
+   2 Stockman
+   2 Stockholm
+   2 Steyr
+   2 Stevens Point
+   2 Stern
+   2 Stephens
+   2 Steele
+   2 State of Israel
+   2 State Capitol
+   2 Starkville
+   2 Stanton
+   2 Stamford
+   2 Speer
+   2 Spartanburg County
+   2 Southwestern Bell
+   2 Southwark
+   2 Southport
+   2 Southern District of
+   2 Southern District
+   2 South Wales Valleys
+   2 South Texas
+   2 South Side of
+   2 South Jersey
+   2 South East Region
+   2 South Buffalo
+   2 South Bay
+   2 Sorbonne
+   2 Sopron
+   2 Somerville.
+   2 Soini
+   2 Smithtown
+   2 Sitra
+   2 Sioux City
+   2 Sint-Truiden
+   2 Singer
+   2 Silver Spring
+   2 Shrewsbury
+   2 Shorewood
+   2 Shirley
+   2 Shipley
+   2 Sharon
+   2 Sewickley
+   2 Seoul
+   2 Sedona
+   2 Securitate
+   2 Seals
+   2 Seabrook
+   2 Sea of Galilee
+   2 Schuylkill County
+   2 Schultz
+   2 Schleswig-Holstein
+   2 Schaerbeek
+   2 Saône-et-Loire
+   2 Sawyer
+   2 Savannah
+   2 Sartrouville
+   2 Saratoga Springs
+   2 Santo Domingo
+   2 Santa Clara County
+   2 Santa Clara
+   2 Santa Ana
+   2 San Ramon
+   2 San Mateo
+   2 San Marcos
+   2 San Luis Obispo
+   2 San Joaquin Valley
+   2 San Clemente
+   2 San Bernardino
+   2 Salzburg
+   2 Sakorafa
+   2 Saint-Germain-en-Laye
+   2 Saint Paul
+   2 Saigon
+   2 Saginaw
+   2 Sablé-sur-Sarthe
+   2 SD
+   2 Rybnik
+   2 Russellville
+   2 Rothschild
+   2 Roscommon
+   2 Rockwall
+   2 Rockville
+   2 Rockland County
+   2 Rock Hill
+   2 Richland
+   2 Richardson
+   2 Richards
+   2 Rhône-Alpes
+   2 Restoring Storey County
+   2 Reseda
+   2 Republican Carroll County
+   2 Republic of Ireland
+   2 Redlands
+   2 Redding
+   2 Rastatt
+   2 Ramallah
+   2 Rader
+   2 Racine
+   2 ROC
+   2 Quantico
+   2 Pulaski
+   2 Provo City
+   2 Provence-Alpes-Côte d'Azur
+   2 Prosperity
+   2 Princeton
+   2 Prescott
+   2 Potter
+   2 Porter
+   2 Port Angeles
+   2 Pontiac
+   2 Polk County
+   2 Pleasanton
+   2 Plato
+   2 Plano
+   2 Placer
+   2 Pinto
+   2 Pinellas County
+   2 Piedmont
+   2 Phelps
+   2 Peć
+   2 Peterborough
+   2 Perkins
+   2 Pennsylvania.
+   2 Pennington
+   2 Pearland
+   2 Passaic
+   2 Pascrell
+   2 Parnell
+   2 Pargneaux
+   2 Panhandle
+   2 Palermo
+   2 Palace Square
+   2 Pacoima
+   2 PR
+   2 PL
+   2 PA.
+   2 PA
+   2 P.C.
+   2 Ottumwa
+   2 Ostrava
+   2 Ossoff
+   2 Ossining
+   2 Oss
+   2 Oslo
+   2 Osceola County
+   2 Orsett
+   2 Orléans
+   2 Oregon City
+   2 Opole
+   2 Ooltewah
+   2 Omaha
+   2 Okeechobee
+   2 Oceanside
+   2 O'Reilly
+   2 O'Hare International Airport
+   2 Nuremberg
+   2 Nunnelee
+   2 Nuland
+   2 Nottara Theater
+   2 Notre-Dame-des-Landes
+   2 Norwich
+   2 Northern Rhodesia
+   2 Northern Mariana Islands
+   2 Northern Everglades
+   2 North-West
+   2 North West England
+   2 North Haven
+   2 Norfolk County
+   2 Nord-Pas-de-Calais
+   2 Nigeria
+   2 Nicolas Bay
+   2 Nicholas
+   2 Nicaragua
+   2 Newtown
+   2 Newton
+   2 Newry
+   2 Newport News
+   2 New London
+   2 New Brunswick
+   2 New Britain
+   2 Neuilly-sur-Seine
+   2 Near East
+   2 National Review
+   2 Namur
+   2 NTU
+   2 ND
+   2 NC
+   2 München
+   2 México
+   2 Márton
+   2 Myers
+   2 Myanmar
+   2 Murfreesboro
+   2 Mumbai
+   2 Multnomah County
+   2 Mt.
+   2 Mount Vernon
+   2 Mount Clemens
+   2 Mostar
+   2 Moss Side
+   2 Morris County
+   2 Morehouse
+   2 Moorhead
+   2 Mooresville
+   2 Moody
+   2 Montélimar
+   2 Montross
+   2 Montreuil
+   2 Monterey
+   2 Montenegro
+   2 Monroe County
+   2 Monroe
+   2 Monaghan
+   2 Monaco
+   2 Moberly
+   2 Mittweida
+   2 Mitte
+   2 Mission
+   2 Mishawaka
+   2 Minter
+   2 Milwaukee County
+   2 Milford
+   2 Middle Tennessee
+   2 Middle East Caucus
+   2 Miami-Dade
+   2 Metz
+   2 Metairie
+   2 Meridian
+   2 Mercer
+   2 Merced County
+   2 Melrose
+   2 Melbourne
+   2 Mekong
+   2 Mecca
+   2 McDonald's
+   2 McCormick
+   2 Mayer
+   2 Maydell
+   2 Maspeth
+   2 Marão
+   2 Martinique
+   2 Marseille
+   2 Marion
+   2 Marietta
+   2 Maricopa County
+   2 Margate
+   2 Marche
+   2 March
+   2 Marblehead
+   2 Mansion
+   2 Mannheim
+   2 Mann
+   2 Mankato
+   2 Manitoba
+   2 Malawi
+   2 Madera
+   2 Madeira
+   2 Maastricht
+   2 Lynchburg
+   2 Lycoming County
+   2 Lower Silesia
+   2 Loves
+   2 Louth
+   2 Lombardy
+   2 Loebsack
+   2 Llangefni
+   2 Livermore
+   2 Lisboa
+   2 Linkuva
+   2 Lexington County
+   2 Lewiston
+   2 Leuven
+   2 Leipzig
+   2 Leicester
+   2 Leeuwarden
+   2 Leeds
+   2 Leawood
+   2 Leavenworth
+   2 Laurel
+   2 Latin
+   2 Laos
+   2 Langadia
+   2 Lane
+   2 Lamesa
+   2 Lamborn
+   2 Lakewood
+   2 Lake Tahoe
+   2 Lake County
+   2 Lackawanna County
+   2 La Garenne-Colombes
+   2 LDS Church
+   2 LAOS
+   2 L.A.
+   2 Kyenge
+   2 Kommunikationstechnologien
+   2 Knox County
+   2 Kinshasa
+   2 King County
+   2 Kihuen
+   2 Kiev
+   2 Kew Gardens
+   2 Kern County
+   2 Kendall
+   2 Kavala
+   2 Kansas City.
+   2 Kabul
+   2 Juneau
+   2 Joliet
+   2 Johnson County
+   2 Jodoigne
+   2 Jefferson County
+   2 Jamestown
+   2 Jack
+   2 Istria County
+   2 Ilves
+   2 Idaho Falls
+   2 Hyde
+   2 Hurst
+   2 Hunt
+   2 Hughes
+   2 Houten
+   2 Houston.
+   2 Hot Springs
+   2 Hopkinton
+   2 Hooper
+   2 Hood River
+   2 Home
+   2 Holy See
+   2 Holton
+   2 Hollywood
+   2 Hohlmeier
+   2 Hiroshima
+   2 Hill Country
+   2 Hildesheim
+   2 Highlands
+   2 Hice
+   2 Hialeah
+   2 Hesse
+   2 Hernandez
+   2 Heineman
+   2 Heath
+   2 Havana
+   2 Harwich
+   2 Hart
+   2 Harlem
+   2 Hampshire
+   2 Halawa
+   2 Göttingen
+   2 Guyana
+   2 Gutiérrez
+   2 Gulf of Tonkin
+   2 Gulf States
+   2 Guilford County
+   2 Groningen
+   2 Grimes
+   2 Grenoble
+   2 Gregory
+   2 Greenwald
+   2 Greenville County
+   2 Greater
+   2 Grave
+   2 Government
+   2 Goodlatte
+   2 Goode
+   2 Golnik
+   2 Glidewell
+   2 Glen Ellyn
+   2 Gist
+   2 Giles
+   2 Gibraltar
+   2 Geren
+   2 Geauga County
+   2 Gary
+   2 Garner
+   2 Garden Grove
+   2 Garden City
+   2 Gard
+   2 Garamendi
+   2 Galway
+   2 Galicia
+   2 Gabrovo
+   2 GAA
+   2 Fürth
+   2 Fremont
+   2 Frelinghuysen
+   2 FreedomWorks
+   2 Framingham
+   2 Foss
+   2 Fort Yukon
+   2 Fort Walton Beach
+   2 Fort Dix
+   2 Fort Benning
+   2 Fort
+   2 Forest Hills
+   2 Fond du Lac
+   2 Flynn
+   2 Florida.
+   2 Flemish Brabant
+   2 Five Star Movement
+   2 Fiscal
+   2 Fidesz
+   2 Fayette
+   2 Farrar
+   2 Famagusta
+   2 Fallujah
+   2 Fairfield
+   2 FI
+   2 Everett
+   2 Evansville
+   2 Europa
+   2 Eurasia
+   2 Eugene
+   2 Eritrea
+   2 Erie
+   2 Erfurt
+   2 England.
+   2 Encino
+   2 Emanuel
+   2 Ellmers
+   2 Elkhart
+   2 Elf Aquitaine
+   2 El Dorado
+   2 Eden Prairie
+   2 Ecuador
+   2 Easton
+   2 Eastern Washington
+   2 Eastern Shore
+   2 Eastern District
+   2 East Tennessee
+   2 East Policy.
+   2 East Policy
+   2 East New York
+   2 East London
+   2 East Harlem
+   2 EURO
+   2 EELV
+   2 Dáil
+   2 Dunedin
+   2 Druskininkai
+   2 Drew
+   2 Downey
+   2 Dority
+   2 Donnelly
+   2 Donegal
+   2 Dolný Kubín
+   2 Dolj County
+   2 Detroit Lakes
+   2 Dess
+   2 Desert Memorial Park
+   2 Democratic Republic of Congo
+   2 Democratic
+   2 Demesmaeker
+   2 Deerfield
+   2 De Bilt
+   2 Daytona
+   2 Days
+   2 Dawson County
+   2 Davis-Monthan Air Force Base
+   2 Davidson County
+   2 Davenport
+   2 Daugavpils
+   2 Danville
+   2 Daniels
+   2 Dallas.
+   2 Córdoba
+   2 Cuxhaven
+   2 Crown Heights
+   2 Critz
+   2 Crews
+   2 Craiova
+   2 Crain
+   2 Covington
+   2 Coventry
+   2 Corvallis
+   2 Corpus Christi
+   2 Corning
+   2 Coquille
+   2 Constanța
+   2 Constantine
+   2 Connacht
+   2 Colville
+   2 Columbia City
+   2 Colombo
+   2 Collinsville
+   2 Collin County
+   2 Collier
+   2 Cold Spring
+   2 Coimbra
+   2 Co-op City
+   2 Cluj-Napoca
+   2 Clearfield
+   2 Clayton
+   2 Clay County
+   2 Cianci
+   2 Chinnici
+   2 Chico
+   2 Chickasaw
+   2 Chevy Chase
+   2 Chesapeake
+   2 Chequers
+   2 Chennai
+   2 Cheltenham
+   2 Chautauqua County
+   2 Chase
+   2 Charleroi
+   2 Chambéry
+   2 Chalon-sur-Saône
+   2 Chad
+   2 Central Texas
+   2 Central Coast
+   2 Central Asia
+   2 Center
+   2 Cass County
+   2 Casey
+   2 Carthage
+   2 Carroll
+   2 Carrickmacross
+   2 Carmel
+   2 Carinthia
+   2 Cardiff
+   2 Cape Kennedy
+   2 Canby
+   2 Canale
+   2 Cambria
+   2 Californian
+   2 Calhoun
+   2 Cairo
+   2 Cadiz
+   2 CWF
+   2 CO
+   2 CIS
+   2 CA
+   2 Bègles
+   2 Buzek
+   2 Butts
+   2 Butler
+   2 Burundi
+   2 Burnsville
+   2 Burnley
+   2 Burlington
+   2 Burgdorf
+   2 Burgas
+   2 Burbank
+   2 Bulger
+   2 Buenos Aires
+   2 Buda
+   2 Buckingham
+   2 Bruges
+   2 Brookside
+   2 Brookhaven
+   2 Brooke
+   2 British Columbia
+   2 Briscoe
+   2 Briois
+   2 Brink
+   2 Brigham City
+   2 Brennan
+   2 Brandon
+   2 Bowling Green
+   2 Bournemouth
+   2 Bouches-du-Rhône
+   2 Bossier Parish
+   2 Bossier City
+   2 Boone
+   2 Bond
+   2 Bojnice
+   2 Blunt
+   2 Blair
+   2 Blackfoot
+   2 Birchfield
+   2 Binev
+   2 Bindi
+   2 Bilzen
+   2 Biloxi
+   2 Biarritz
+   2 Bermeo
+   2 Berkshire
+   2 Berg
+   2 Bennett
+   2 Bellingham
+   2 Bell County
+   2 Bedford County
+   2 Bedford
+   2 Beaufort
+   2 Bayside
+   2 Bay Area
+   2 Batley
+   2 Batavia
+   2 Basra
+   2 Basilicata
+   2 Barrow
+   2 Barron
+   2 Bannon
+   2 Baltimore.
+   2 Baltics
+   2 Balearic Islands
+   2 Baker
+   2 Baird
+   2 Bahamas
+   2 Bad Bederkesa
+   2 Auvergne
+   2 Atlantic
+   2 Argeș County
+   2 Area
+   2 Arctic
+   2 Arcadia
+   2 Arad
+   2 Aquitaine
+   2 Appalachia
+   2 António Marinho e Pinto
+   2 Andrews
+   2 Andrew
+   2 Andover
+   2 Andoain
+   2 Anchorage
+   2 America.
+   2 Amberg
+   2 Amash
+   2 Amarillo
+   2 Amarante
+   2 Altadena
+   2 Alma
+   2 Allow States
+   2 Alicante
+   2 Alhambra
+   2 Albania.
+   2 Albaida del Aljarafe
+   2 Akin
+   2 Aiken County
+   2 Aden
+   2 Adams County
+   2 Accounting
+   2 Abitur
+   2 Abilene
+   2 Aachen
+   2 9 percentage points
+   2 8th District
+   2 7th District
+   2 51st congressional district
+   2 22nd congressional district
+   2 22nd District
+   2 21st congressional district
+   2 101st Assembly District
+   2 10 percentage points
+   2 's
+   1 Виктор Викторович Успасских
+   1 Сергей Дмитриевич Станишев
+   1 Łódź
+   1 Čužnja
+   1 Šuica
+   1 Žilina
+   1 Šibenik
+   1 České Budějovice
+   1 Šalčininkai
+   1 Đakovo
+   1 Övertorneå Municipality
+   1 Österreich
+   1 Óscar Saavedra San Martín
+   1 Óbidos
+   1 Épinay-sur-Seine
+   1 Égypte
+   1 world.He
+   1 wayside
+   1 ward
+   1 wake
+   1 voting.She
+   1 votes.Bera
+   1 vantage point
+   1 van
+   1 uniform
+   1 uk
+   1 triplets.Rohrabacher
+   1 the UK
+   1 the States
+   1 the Holy Land
+   1 the Hague
+   1 teller
+   1 talent
+   1 tab
+   1 syndicate
+   1 striker
+   1 stranger
+   1 startup
+   1 spot
+   1 sp.a
+   1 shade
+   1 self-certify
+   1 selection
+   1 security
+   1 row
+   1 rivals
+   1 rifle
+   1 retreat
+   1 reserve
+   1 reduction
+   1 reader
+   1 pro-United States
+   1 powers
+   1 possession
+   1 pope
+   1 polls
+   1 platform
+   1 pitcher
+   1 patrol
+   1 of the
+   1 of
+   1 note
+   1 non-North Dakota
+   1 motion
+   1 moonshine
+   1 monkey
+   1 mon
+   1 mission
+   1 midway
+   1 match
+   1 marathon
+   1 main city
+   1 luck
+   1 loyalty
+   1 lover
+   1 liberty
+   1 levels
+   1 level
+   1 lawyers
+   1 late
+   1 lakes
+   1 ire
+   1 inning
+   1 independence
+   1 increase
+   1 idol
+   1 humorist
+   1 honesty
+   1 holders
+   1 hemp
+   1 heck
+   1 hard time
+   1 hand
+   1 hallway
+   1 ha
+   1 gist
+   1 gestation.From 2010-12
+   1 fries
+   1 following the 1989 fall
+   1 fold
+   1 fiscal
+   1 experiment
+   1 entry
+   1 education/business
+   1 east London
+   1 drop
+   1 draw
+   1 door
+   1 donation
+   1 derby
+   1 deposit
+   1 delay
+   1 de Indias
+   1 cutter
+   1 converse
+   1 constable
+   1 conjuncture
+   1 college.Esty
+   1 cloud
+   1 christian
+   1 chili
+   1 channel
+   1 centennial
+   1 cause
+   1 catcher
+   1 castle
+   1 cash
+   1 butler
+   1 butcher
+   1 burner
+   1 burden
+   1 buncruptcy
+   1 breaks
+   1 boos
+   1 block
+   1 blanks
+   1 birds
+   1 benefit
+   1 beaver
+   1 barber
+   1 banning
+   1 banks
+   1 asylum
+   1 agency
+   1 Zīle
+   1 Zürich
+   1 Zwijndrecht
+   1 Zurich
+   1 Zsombor
+   1 Zorro
+   1 Zone
+   1 Zinke
+   1 Zielonka
+   1 Zielona Góra
+   1 Zhanaozen.
+   1 Zeniths
+   1 Zeldin
+   1 Zeeland Township
+   1 Zaventem.
+   1 Zares
+   1 Zaragoza
+   1 Zaolzie
+   1 Zambia
+   1 Zacatecas
+   1 ZUS
+   1 Yuma
+   1 Yucca Valley
+   1 Yucca Mountain
+   1 Ystrad Rhondda
+   1 Yorkshire county
+   1 York River
+   1 Yonkers
+   1 Yarrow
+   1 Yancey
+   1 Yamhill
+   1 Yakima
+   1 Yadkin River
+   1 Xunta de Galicia
+   1 Xinhui
+   1 Xanthi.
+   1 Xanadu
+   1 Wythall Estate
+   1 Wyszków
+   1 Wyman
+   1 Wyckoff
+   1 Wybrzeże Gdańsk
+   1 Wuppertal
+   1 Worlds
+   1 World Trade Center
+   1 World
+   1 Words
+   1 Worcestershire
+   1 Wooster
+   1 Woolridge
+   1 Woodward
+   1 Woodlawn
+   1 Woodlands
+   1 Wood-Ridge
+   1 Wood River
+   1 Women's Service Center
+   1 Women's Memorial
+   1 Woburn
+   1 Witherbee
+   1 Wise
+   1 Wisconsin State
+   1 Wisconsin Rapids
+   1 Winterton
+   1 Winter Park
+   1 Winona
+   1 Winnipeg
+   1 Winnebago
+   1 Winfield
+   1 Windsor County
+   1 Winchester
+   1 Wilrijk
+   1 Wilmette
+   1 Willsboro
+   1 Willowbrook
+   1 Willmar
+   1 Willitoft
+   1 Williamson
+   1 Williamsburg
+   1 Williamsbridge
+   1 Willamette River.
+   1 Willamette River
+   1 Wilkins
+   1 Wilders
+   1 Wild Sky Wilderness
+   1 Wikström
+   1 Wichita Falls
+   1 Wiadomości
+   1 Whitfield
+   1 Whitefish Bay
+   1 White Women
+   1 Wharton
+   1 Wever
+   1 Westwood
+   1 Westfield
+   1 Western Wall
+   1 Western Tennessee
+   1 Western Springs
+   1 Western Province
+   1 Western Pomerania
+   1 Western North Carolina
+   1 Western Massachusetts
+   1 Western District
+   1 Western Australia
+   1 West Yorkshire
+   1 West Warwick
+   1 West Virginia.Mooney
+   1 West Virginia State
+   1 West Texas
+   1 West Sussex
+   1 West Seneca
+   1 West Milwaukee
+   1 West Midlands
+   1 West Mersea
+   1 West Los Angeles VA
+   1 West Los Angeles
+   1 West Lake Hills
+   1 West Harlem
+   1 West Ham
+   1 West Germany.He
+   1 West France
+   1 West Columbia
+   1 West Chicago
+   1 Wendland
+   1 Wells
+   1 Weingarten
+   1 Webster Parish
+   1 Webb
+   1 Wayzata
+   1 Waynesville
+   1 Waxahachie
+   1 Waverly
+   1 Wausau
+   1 Wath-upon-Dearne
+   1 Waterville
+   1 Watersmeet
+   1 Waterlooville
+   1 Waterloo
+   1 Waterford Township
+   1 Washoe County
+   1 Washington Heights
+   1 Washington D.C
+   1 Washington County
+   1 Warwick.
+   1 Warwick
+   1 Warrington
+   1 Warrick County
+   1 Warrenville
+   1 Warrensville Heights
+   1 Warrensburg
+   1 Wandsworth
+   1 Wambierzyce
+   1 Walton
+   1 Walter Street County
+   1 Walt Disney World
+   1 Walorski
+   1 Walloons
+   1 Wallington
+   1 Wall
+   1 Walker County
+   1 Walford
+   1 Wake
+   1 Wajid
+   1 Waiʻanae
+   1 Wairarapa
+   1 Waipahu
+   1 Wai'anae
+   1 Wahlalternative
+   1 Wabash
+   1 WIA
+   1 WI
+   1 WA
+   1 Võru Parish
+   1 Vélizy-Villacoublay
+   1 Västra Götaland County
+   1 Västmanland County
+   1 Vzglyad
+   1 Vysočina
+   1 Vukovar
+   1 Vrindavan
+   1 Vrancea County
+   1 Vosges
+   1 Vollenhove
+   1 Vogue
+   1 Vlădești
+   1 Vlagtwedde
+   1 Vlaams Belang
+   1 Vittorio Veneto
+   1 Vista
+   1 Visalia
+   1 Virginia.Scott
+   1 Virginia Beach
+   1 Vineland
+   1 Villeneuve-le-Roi
+   1 Villanova
+   1 Vila Nova de Gaia
+   1 Viersen
+   1 Vieques
+   1 Vienne
+   1 Veysey
+   1 Verona
+   1 Vermillion
+   1 Verheyen
+   1 Verdun
+   1 Verbier
+   1 Ventura Place
+   1 Ventura County
+   1 Ventura
+   1 Vendola
+   1 Veliko Tarnovo
+   1 Velika Kopanica.
+   1 Velika Gorica.
+   1 Veckorevyn
+   1 Vasto
+   1 Vasas
+   1 Varese
+   1 Varel
+   1 Vanguard
+   1 Vandenburg
+   1 Vanceburg
+   1 Vana
+   1 Van Nuys
+   1 Valmiera.
+   1 Valley
+   1 Valletta
+   1 Valeurs actuelles
+   1 Valenciennes
+   1 Valdosta
+   1 Valdez
+   1 Val-de-Marne
+   1 VI
+   1 Uvda
+   1 Uvalde
+   1 Utena
+   1 Utah Lake
+   1 Utah County
+   1 Uruguay
+   1 Urnieta
+   1 Urdoma
+   1 Urbana
+   1 Urban
+   1 Uptown
+   1 Uppsala County
+   1 Upper Silesia
+   1 Upper Palatinate
+   1 Upper Normandy
+   1 Upper
+   1 Unomattina
+   1 Unión Progreso y Democracia
+   1 Unizo
+   1 University City
+   1 University
+   1 Universidad Autonoma
+   1 United States.Higgins
+   1 United Europe.
+   1 United Europe
+   1 United
+   1 Union City
+   1 Uniform
+   1 Unified Port of
+   1 Underhill Vermont
+   1 Ultra Low Sulfur Diesel
+   1 Ulatowska
+   1 Udmurt Republic
+   1 Udine
+   1 USAMV
+   1 USAFA
+   1 UDMR
+   1 UA
+   1 U.S. Pacific Islands
+   1 U.S. Mexico
+   1 TÁVORA
+   1 Tyre
+   1 Twysden
+   1 Two Rivers
+   1 Two Genders
+   1 Twitter
+   1 Turnham
+   1 Turlock
+   1 Turkmenistan
+   1 Tupelo
+   1 Tuolumne
+   1 Tunne Kelam
+   1 Tunga
+   1 Tuckahoe
+   1 Tucholi
+   1 Truman
+   1 Troyes
+   1 Trnava
+   1 Trinité-sur-Mer
+   1 Trieste
+   1 Triangle Ball
+   1 Treviso
+   1 Treorchy.Evans
+   1 Trenton.
+   1 Trefforest
+   1 Trebnje.
+   1 Treaty
+   1 Tralee
+   1 Traficant
+   1 Toynbee Hall
+   1 Towson
+   1 Township
+   1 Towns
+   1 Town Hall
+   1 Tourcoing
+   1 Toumba Stadium
+   1 Torrington
+   1 Torquay
+   1 Tornillo
+   1 Topeka
+   1 Tonton Macoute
+   1 Toms River
+   1 Tompkinsville
+   1 Tompkins
+   1 Tomislavgrad
+   1 Tombstone
+   1 Tomašić
+   1 Toll Road
+   1 Togur
+   1 Tobin
+   1 Titley
+   1 Tiruchirapalli
+   1 Tioga
+   1 Tinca
+   1 Timor-Leste
+   1 Timişoara
+   1 Timiș County
+   1 Timiş
+   1 Times Square
+   1 Timbro
+   1 Tikrit
+   1 Tijuana
+   1 Tift
+   1 Tianjin
+   1 Thurston
+   1 Thurrock
+   1 Thun
+   1 Throgs Neck
+   1 Three Rivers
+   1 Thousand Oaks
+   1 Thompson
+   1 Thomas-Mann Gymnasium
+   1 Thomas Township
+   1 Thief River Falls
+   1 Thessaloniki.
+   1 Theatre
+   1 The states
+   1 The
+   1 Thanksgiving
+   1 Thames Valley
+   1 Texarkana
+   1 Tevis
+   1 Terry
+   1 Terrorismo
+   1 Terrorism
+   1 Tequesta
+   1 Teplice
+   1 Temple City
+   1 Temple
+   1 Temecula
+   1 Temas de Hoy
+   1 Telšiai
+   1 Telegraph
+   1 Tehama
+   1 Teapot Dome
+   1 Teaneck
+   1 Teachout
+   1 Tbilisi
+   1 Tavaglione
+   1 Tauras
+   1 Taura
+   1 Tau
+   1 Tatabánya
+   1 Tata
+   1 Tasmania
+   1 Tashkent
+   1 Tarrytown
+   1 Tarrant County
+   1 Tarpon Springs
+   1 Tarnów
+   1 Tangipahoa
+   1 Tangerang
+   1 Tanganyika
+   1 Tampere
+   1 Tamil Nadu Legislative Assembly
+   1 Tamil Nadu
+   1 Tallaght
+   1 Talksport
+   1 Takoma Park
+   1 Tajikistan
+   1 Taipei
+   1 Tacoma-Pierce County
+   1 Tachikawa
+   1 TVP3
+   1 TITANIC
+   1 T. Christiansen
+   1 Słupsk.
+   1 Sąjūdis
+   1 Sára
+   1 Sánchez
+   1 Székesfehérvár
+   1 Szamocin.
+   1 Szabadság kör
+   1 Swisher
+   1 Swindon Town
+   1 Swedish
+   1 Swalwell
+   1 Swain
+   1 Svobodní
+   1 Svanstein
+   1 Sutton United
+   1 Sutton
+   1 Sutter County
+   1 Suresnes
+   1 Surbiton
+   1 Suozzi
+   1 Sunrail
+   1 Sunol
+   1 Sunnyvale
+   1 Sunnyside.Newhouse
+   1 Sungate Capital
+   1 Sumter
+   1 Summit County
+   1 Summers
+   1 Sulu
+   1 Sullivan Principles
+   1 Suitland
+   1 Sugar Land
+   1 Suffolk County
+   1 Subiaco
+   1 Styria
+   1 Stuttgart
+   1 Studyrama
+   1 Studio City
+   1 Stropkowo
+   1 Strong Island
+   1 Streusand
+   1 Street
+   1 Stratford
+   1 Stourbridge
+   1 Storm Lake
+   1 Stopnica
+   1 Stonewall Inn
+   1 Stoke-on-Trent
+   1 Stockton North
+   1 Stockholm County
+   1 Stockham
+   1 Stirling
+   1 Stilwell
+   1 Steuben County
+   1 Sterling Heights
+   1 Stephenville
+   1 Stefanik
+   1 Staunton
+   1 Statue of Liberty
+   1 States of
+   1 States
+   1 Staten Island Borough
+   1 State of
+   1 State House
+   1 State Chancellery
+   1 State Bar of
+   1 Stanislaus County
+   1 Stanislaus
+   1 Stallings
+   1 Staatliches Landschulheim Marquartstein
+   1 St. Thomas
+   1 St. Olaf
+   1 St. Moritz
+   1 St. Michael
+   1 St. Mary
+   1 St. Louis County
+   1 St. Landry Parish
+   1 St. Julian's
+   1 St. Joseph
+   1 St. John's
+   1 St. James's Square
+   1 St. James Theatre
+   1 St. Francis
+   1 St. Croix
+   1 St. Clair Shores
+   1 St. Charles County
+   1 St. Charles
+   1 St. Brendan
+   1 St. Augustine
+   1 St. Andrew's Priory
+   1 St. Aidan
+   1 St Peter's Square
+   1 St Kilda
+   1 St Helens
+   1 Srebrenica
+   1 Square
+   1 Springs
+   1 Springfield.
+   1 Springdale
+   1 Springburn
+   1 Spring Valley
+   1 Sprague
+   1 Spinozalyceum
+   1 Spielberg
+   1 Speyer
+   1 Spencer
+   1 Spence
+   1 Special
+   1 Speakership
+   1 Spanish.He
+   1 Southwest Asia
+   1 Southside
+   1 Southold
+   1 Southington
+   1 Southern Iraq
+   1 Southern California State
+   1 Southern Africa
+   1 Southend-on-Sea
+   1 Southeastern United States
+   1 Southborough
+   1 South-East
+   1 South Tyrol
+   1 South Thanet
+   1 South Tampa
+   1 South Side
+   1 South Shore Long Island
+   1 South Shore
+   1 South Pittsburg
+   1 South Pasadena
+   1 South Orange
+   1 South Milwaukee
+   1 South Los Angeles
+   1 South Korea Colombia
+   1 South Italy
+   1 South Gate
+   1 South East France
+   1 South Dublin
+   1 South District
+   1 South County
+   1 South China Sea
+   1 South Charlotte
+   1 South Carolinians
+   1 South Carolina.Wilson
+   1 South Carolina.
+   1 South Carolina State
+   1 South Bronx
+   1 South Bohemian Region
+   1 South America
+   1 Souselas
+   1 Soundgarden
+   1 Sonoma County
+   1 Sonoma
+   1 Somerset
+   1 Solon
+   1 Soliz
+   1 Solingen
+   1 Solihull
+   1 Soldier
+   1 Solano County
+   1 Socialiste
+   1 Social Anthropology
+   1 Sochaczew
+   1 Snyder County
+   1 Snyder
+   1 Snohomish County
+   1 Sneek
+   1 Smolyan Province
+   1 Smith County
+   1 Smilovice
+   1 Slough
+   1 Sliven
+   1 Sligo Town
+   1 Sligo
+   1 Slidell
+   1 Slavonian
+   1 Slavic
+   1 Skopje
+   1 Skokie
+   1 Skegness
+   1 Skamania
+   1 Skaggs
+   1 Sintra
+   1 Sint-Gillis-Waas
+   1 Sinkiang
+   1 Single Street
+   1 Sinema
+   1 Sinaia
+   1 Simi
+   1 Silverton
+   1 Silistra
+   1 Silicon Valley.
+   1 Silesian Voivodeship
+   1 Silesia
+   1 Sierra-Leone
+   1 Sierra
+   1 Sierpc.
+   1 Siedlików
+   1 Siedlce
+   1 Sidney
+   1 Siddur Sha'ar Zahav
+   1 Sibley
+   1 Shutterfly
+   1 Shuler
+   1 Shimkus
+   1 Shiberia
+   1 Sherwood
+   1 Sherburne
+   1 Sherbrooke.
+   1 Sherbrooke
+   1 Shepard
+   1 Shenzhen
+   1 Shelter Island
+   1 Shelby
+   1 Sheboygan
+   1 Shea-Porter
+   1 Shea Stadium
+   1 Shasta
+   1 Shakopee
+   1 Shafter
+   1 Sha'ar Zahav
+   1 Sevlievo
+   1 Seville Province
+   1 Sevierville
+   1 Seneca
+   1 Sejm of the
+   1 Seignosse
+   1 Seguin
+   1 Segovia
+   1 Sefton
+   1 Seferihisar
+   1 Sedgley
+   1 Sedalia
+   1 Seclin
+   1 Seattle.
+   1 Seaport Village
+   1 Seanad Éireann
+   1 Seanad
+   1 Seaford
+   1 Seacoast Region of
+   1 SeaTac
+   1 Sderot
+   1 Scottà
+   1 Scottsbluff
+   1 Scott County
+   1 Scotch Plains
+   1 Schwerner
+   1 Schweinfurt
+   1 Schuyler
+   1 Schroeder
+   1 Schoolcraft
+   1 School District
+   1 Schmidt
+   1 Scheveningen
+   1 Schaumburg
+   1 Scenic Rivers
+   1 Scarsdale
+   1 Scandicci
+   1 Scalise
+   1 Sayreville
+   1 Saxony-Anhalt
+   1 Savoy Theatre
+   1 Saunders
+   1 Saryusz-Wolski
+   1 Sarthe
+   1 Sarpalius
+   1 Sarasota
+   1 Sarajevo.Tenney
+   1 Sao Paulo
+   1 Santurce
+   1 Santo António
+   1 Santiago
+   1 Santee
+   1 Santa Rosa County
+   1 Santa Rosa
+   1 Santa Monica Bay
+   1 Santa María del Patrocinio
+   1 Santa Maria Capua Vetere
+   1 Santa Fe de Antioquia
+   1 Santa Barbara County
+   1 Santa Ana River
+   1 Sanremo
+   1 Sanluri
+   1 San Sebastián
+   1 San Rafael
+   1 San Pietro Vernotico
+   1 San Juan Capistrano
+   1 San Joaquin River
+   1 San Joaquin
+   1 San Giovanni Teatino
+   1 San Giovanni Rotondo
+   1 San Giovanni
+   1 San Gabriel Valley
+   1 San Gabriel
+   1 San Francisco Bay
+   1 San Diego.In
+   1 San Diego county
+   1 San Diego State
+   1 San Diego City
+   1 San Diego Bay
+   1 San Benito
+   1 San Antonio.
+   1 San Angelo
+   1 Samusocial
+   1 Sampson
+   1 Saltillo
+   1 Saltaire
+   1 Salonta
+   1 Salonica
+   1 Salmon River
+   1 Salisbury
+   1 Saline counties—including Skelton
+   1 Salinas
+   1 Saldaña
+   1 Salamanca
+   1 Salafranca Sánchez-Neyra
+   1 Sal
+   1 Saks
+   1 Saipan.
+   1 Saint-Rémy
+   1 Saint-Martin-du-Bois
+   1 Saint-Jean-de-Luz
+   1 Saint-Cloud
+   1 Saint-Brieuc
+   1 Saint Pierre and Miquelon
+   1 Saint Paul.
+   1 Saint Louis County
+   1 Saint Croix
+   1 Saint
+   1 Saigon.
+   1 Sagamore
+   1 Sacramento.
+   1 Sac City
+   1 Sabancı Üniversitesi
+   1 Saban
+   1 Saarbrücken.
+   1 Saar
+   1 SUFA
+   1 STEM
+   1 SS
+   1 SPD Lower Rhine
+   1 SOUSA
+   1 SNAP
+   1 SImpson
+   1 SGP
+   1 SGH
+   1 SAC
+   1 S.F.
+   1 S. Mendenhall
+   1 Rīga
+   1 Răceala
+   1 Rübig
+   1 Róża Thun
+   1 Río Negro
+   1 Río Limón
+   1 République
+   1 Râmnicu Vâlcea
+   1 Rzeczpospolita
+   1 Rye City
+   1 Rutigliano
+   1 Russian Federation
+   1 Ruse
+   1 Rural Hall
+   1 Run Baby Run
+   1 Rumania
+   1 Rugby
+   1 Rueil-Malmaison
+   1 Royal Oak
+   1 Roxbury
+   1 Round Rock
+   1 Rouen
+   1 Roubaix
+   1 Ross-on-Wye
+   1 Roskam
+   1 Rosenberg
+   1 Rosemont
+   1 Rosemead
+   1 Rosedale
+   1 Roseburg
+   1 Roseboro
+   1 Roquefort
+   1 România
+   1 Rome.
+   1 Romani origin.Drăghici
+   1 Romani
+   1 Romana
+   1 Rolette
+   1 Rokita
+   1 Rocky Mountains.
+   1 Rocky Mount.
+   1 Rockland
+   1 Rockingham County
+   1 Rockdale
+   1 Rock Springs
+   1 Roc
+   1 Robertson
+   1 Roanoke County
+   1 Roanne
+   1 Roade
+   1 Road
+   1 Riyadh
+   1 Rivolta d'Adda
+   1 Riverhead
+   1 Riverdale
+   1 River Falls
+   1 Ritz-Carlton
+   1 Ripley
+   1 Rio de Janeiro
+   1 Rio Grande Valley
+   1 Ringwood
+   1 Riksdag
+   1 Ridgewood
+   1 Riddle
+   1 Richvale
+   1 Richmond County
+   1 Rhône
+   1 Rhodes
+   1 Rhein-Main
+   1 Rhea
+   1 Reynolds Street
+   1 Reynolds
+   1 Republican county
+   1 Republican Kings County
+   1 Republican Henrico County
+   1 Republic of the Philippines
+   1 Republic of the Congo
+   1 Republic of Zambia
+   1 Republic of Finland
+   1 Republic of Austria
+   1 Renton
+   1 Reno
+   1 Renacci-Doraty Chevrolet
+   1 Remscheid
+   1 Remagen
+   1 Relief
+   1 Reims
+   1 Rehovot
+   1 Rego Park
+   1 Region
+   1 Reggio Emilia
+   1 Reforma
+   1 Redwood City
+   1 Redditch
+   1 Reddit
+   1 Red Hook
+   1 Red Flag Canal
+   1 Reading
+   1 Reader
+   1 Rayburn Building
+   1 Rawicz County
+   1 Rathfriland
+   1 Rath
+   1 Rapid City
+   1 Rankin County
+   1 Ranger
+   1 Randolph-Macon
+   1 Rancho Mirage
+   1 Ramsey County
+   1 Ramona
+   1 Rajkot
+   1 Raisin
+   1 Railway Hotel
+   1 Rahway
+   1 Radom
+   1 Radioteatern
+   1 Radewagen
+   1 Radclyffe Hall
+   1 Racibórz
+   1 Rabat
+   1 RAI
+   1 R-Wayne County
+   1 R-Calif.
+   1 Queensland
+   1 Queen Creek
+   1 Quedlinburg
+   1 Quebec City
+   1 Quarter
+   1 Quarles
+   1 Qualls
+   1 Quad City Thunder
+   1 Qik
+   1 Płock
+   1 Pétain
+   1 Péronne
+   1 Pythio
+   1 Puurs
+   1 Puncholing
+   1 Pueblo
+   1 Puducherry
+   1 Public Policy
+   1 Public Leadership
+   1 Public Advocate
+   1 Public Administration
+   1 Public
+   1 Ptuj
+   1 Provence-Alpes-Côte-d'Azur
+   1 Prospect Heights
+   1 Priorita
+   1 Prineville
+   1 Principality of Asturias
+   1 Princetown
+   1 Prince William
+   1 Prievidza
+   1 Pretzell
+   1 Pretty
+   1 Preseli Pembrokeshire
+   1 Prentiss
+   1 Precinct
+   1 Pratt
+   1 Pramonės
+   1 Praha
+   1 Poşta Română
+   1 Poznań voivodeship sejmik
+   1 Poznan
+   1 Považská Bystrica
+   1 Pottawattamie
+   1 Potomac
+   1 Poston
+   1 Postimees
+   1 Post Falls
+   1 Portuguese Republic
+   1 Porto
+   1 Portcullis House
+   1 Portales
+   1 Portage County
+   1 Port Moresby
+   1 Port Charlotte
+   1 Port Barre
+   1 Port Arthur
+   1 Porkland
+   1 Poreč
+   1 Pooler
+   1 Pontotoc
+   1 Pontevedra
+   1 Pontefract
+   1 Ponte Vedra Beach
+   1 Pontassieve
+   1 Ponce de
+   1 Ponce
+   1 Pomeranian Voivodship
+   1 Pollock
+   1 Polk
+   1 Politics
+   1 Politico
+   1 Poliquin
+   1 Poitiers
+   1 Poetry
+   1 Po
+   1 Plzeň
+   1 Plymouth
+   1 Plumas
+   1 Plum Island
+   1 Plon
+   1 Plattsburgh
+   1 Platteville
+   1 Plainview
+   1 Placer County
+   1 Pittsburg
+   1 Pittella
+   1 Pitt County
+   1 Pitera
+   1 Piscataway
+   1 Piroschka
+   1 Pirkanmaa
+   1 Pirinski
+   1 Pirin
+   1 Pineville
+   1 Pine Lake
+   1 Pine Hills
+   1 Pine Forest Range Wilderness
+   1 Pinal County
+   1 Pila.
+   1 Pila
+   1 Pike County
+   1 Pigford II
+   1 Pierson
+   1 Piecha
+   1 Piacenza
+   1 Physics
+   1 Phoenix VA
+   1 Phippsburg
+   1 Philadelphia.
+   1 Philadelphia County.
+   1 Pforzheim.
+   1 Petherton
+   1 Peterson
+   1 Petersburg
+   1 Peterle
+   1 Perth Amboy
+   1 Perth
+   1 Persita
+   1 Persian
+   1 Perfection
+   1 Pentagon
+   1 Pennsylvania State
+   1 Pennsylvania David
+   1 Peninsula
+   1 Pendulum
+   1 Pend Oreille
+   1 Pemberton
+   1 Pella
+   1 Pelham Manor
+   1 Pelham Bay
+   1 Pelham
+   1 Pelago
+   1 Pegida
+   1 Pearland City
+   1 Pearl
+   1 Pazardzhik
+   1 Pays de la Loire
+   1 Pavia
+   1 Paunova
+   1 Pau
+   1 Patton
+   1 Patriot
+   1 Patrick
+   1 Passchendaele
+   1 Pasco County
+   1 Pascagoula
+   1 Pará
+   1 Parti Socialiste
+   1 Parteirat
+   1 Parrish
+   1 Parma
+   1 Parkchester
+   1 Park Ward
+   1 Park Ridge
+   1 Parish
+   1 Paris.Désir
+   1 Paramus
+   1 Paramount
+   1 Paradise Valley
+   1 Papua
+   1 Papillion
+   1 Paphos
+   1 Pană
+   1 Panzerbataillon 74
+   1 Pano Akourdaleia
+   1 Panciu
+   1 Panama City
+   1 Pamplona
+   1 Pamlico Sound
+   1 Palos Verdes Estates
+   1 Palo Alto
+   1 Palma de Mallorca
+   1 Palm Springs
+   1 Palm Coast
+   1 Palm City
+   1 Palm Beach Gardens
+   1 Palm Beach
+   1 Palk Strait
+   1 Palisade Avenue
+   1 Palgrave
+   1 Palestinian territories
+   1 Pago Pago
+   1 Page
+   1 Pagadian
+   1 Padua.
+   1 Packer
+   1 Pacific Ocean
+   1 Pacific Northwest
+   1 Pacific Islander
+   1 Pace
+   1 PROMESA
+   1 PATRIOT
+   1 PASA
+   1 P.A.
+   1 Oxnard
+   1 Oxfordshire
+   1 Owensboro
+   1 Owen
+   1 Ovates
+   1 Oval Office
+   1 Outserve
+   1 Outer Banks
+   1 Oud-Heverlee
+   1 Ouachita
+   1 Ottawa County
+   1 Otsego
+   1 Others
+   1 Ostrobothnia
+   1 Oster
+   1 Osnabruck
+   1 Osijek.
+   1 Osceola
+   1 Oscar Wilde Memorial Bookstore
+   1 Osaka
+   1 Osage County
+   1 Orpington
+   1 Orlando.
+   1 Orestiko
+   1 Orem
+   1 Oregon State
+   1 Orangeburg County
+   1 Orangeburg
+   1 Opportunity
+   1 Opelousas
+   1 Opa-locka
+   1 Oneida County
+   1 Oneida
+   1 OneAmerica
+   1 Oman
+   1 Oltenia
+   1 Olomouc
+   1 Olmert
+   1 Oliver
+   1 Olivarez
+   1 Oldwick
+   1 Oldham East
+   1 Old North Church
+   1 Old Cadet Chapel
+   1 Olathe
+   1 Oklahoma State
+   1 Okinawa Island
+   1 Okinawa
+   1 Okeechobee County
+   1 Okanogan
+   1 Okaloosa Island
+   1 Okaloosa County
+   1 Oireachtas
+   1 Ohrid
+   1 Ohio.
+   1 Ogden
+   1 Odense
+   1 Oceania
+   1 Ocean Floor
+   1 Ocala
+   1 Obergünzburg
+   1 Oakland Hills
+   1 Oakland County
+   1 Oahu 42nd District
+   1 Oahu
+   1 ORaH
+   1 OR
+   1 OK-4
+   1 OH
+   1 OBE
+   1 O'Neal
+   1 O'Hare
+   1 Nõmme
+   1 Nîmes.
+   1 När livet går sönder
+   1 Nyasaland
+   1 Noville
+   1 Novak
+   1 Nova Scotia
+   1 Noumea
+   1 Nottinghamshire
+   1 Nottingham West
+   1 Notre Dame
+   1 Norwood
+   1 Nortons
+   1 Northwestern Minnesota
+   1 Northwest Ohio
+   1 Northwest
+   1 Northumberland
+   1 Northfield
+   1 Northern Territory
+   1 Northern New Mexico
+   1 Northern Nevada
+   1 Northern Marianas Islands
+   1 Northern Kentucky
+   1 Northern England
+   1 Northern Cyprus
+   1 Northern Baden-Württemberg
+   1 Northern Africa
+   1 Northeastern Illinois
+   1 Northeast Philadelphia
+   1 Northeast Los Angeles
+   1 Northeast
+   1 Northamptonshire
+   1 Northampton County
+   1 Northampton
+   1 North-Brabant Province
+   1 North West Arts
+   1 North Wales
+   1 North Vietnam.
+   1 North Tonawanda
+   1 North St. Paul
+   1 North Side
+   1 North Sea
+   1 North Richland Hills
+   1 North Rhine-Westfalia
+   1 North Palm Beach
+   1 North Miami
+   1 North Little Rock
+   1 North Lincolnshire
+   1 North Jutland
+   1 North Haven Island
+   1 North East Italy
+   1 North County
+   1 North Coast
+   1 North Carolina.
+   1 North Caldwell
+   1 North Brabant
+   1 North Belfast
+   1 North Bay
+   1 North Aurora
+   1 North Africa
+   1 Norrmalmstorg
+   1 Norrbotten County
+   1 Normandy
+   1 Normandie Avenue
+   1 Nordik
+   1 Nordbaden
+   1 Noland
+   1 Nogueras
+   1 Nogales
+   1 Nivelles.
+   1 Nitra.
+   1 Nitra
+   1 Nijmegen
+   1 Niger
+   1 Nice
+   1 Niagara County
+   1 Newtown Bee
+   1 Newport Hills
+   1 Newham South
+   1 Newham
+   1 Newfoundland and Labrador
+   1 Newcastle upon Tyne
+   1 Newcastle
+   1 Newberry
+   1 New York County
+   1 New York Bay
+   1 New Rochelle
+   1 New Road
+   1 New River
+   1 New Republic
+   1 New Paltz
+   1 New Hope
+   1 New Hartford
+   1 New Europe
+   1 New Delhi
+   1 New Amsterdam
+   1 Neuss
+   1 Neuhardt
+   1 Netroots Nation
+   1 Nestande
+   1 Neptune City
+   1 Nellore Rural
+   1 Neheim
+   1 Negros Occidental
+   1 Negotiation
+   1 Needham
+   1 Neasden
+   1 Nazi Germany
+   1 Navi
+   1 Navarre
+   1 Natolin
+   1 National Training Center
+   1 National Parks
+   1 National Mall
+   1 National City
+   1 Natchez
+   1 Nasiriyah
+   1 Nashville/Davidson County
+   1 Nashville.
+   1 Narragansett
+   1 Naples.
+   1 Napa Valley
+   1 Napa County
+   1 Nantes
+   1 Nanakuli
+   1 Najaf
+   1 Nairobi
+   1 Nagyszombat
+   1 Nagpur
+   1 Nagoya
+   1 Nadia
+   1 NYC
+   1 N.J.
+   1 N.H.
+   1 N.C.
+   1 Münster
+   1 Mönchengladbach
+   1 Méndez
+   1 Månadsjournalen
+   1 Myszków
+   1 My Time
+   1 My
+   1 Musselwhite
+   1 Museum of Fine Arts
+   1 Murray
+   1 Munster
+   1 Munktorp
+   1 Mullen
+   1 Muddy Creek
+   1 Mt. Lebanon
+   1 Mouvement National Républicain
+   1 Mountains
+   1 Mountain View
+   1 Mount Soledad
+   1 Mount Prospect
+   1 Mount Pleasant
+   1 Mount Kilimanjaro.Sinema
+   1 Mount Everest
+   1 Mound Bayou
+   1 Mossoró
+   1 Moss
+   1 Moselle
+   1 Morrow
+   1 Morrison County
+   1 Morrisey
+   1 Morris
+   1 Moroun
+   1 Moroleón
+   1 Morganfield
+   1 Morena
+   1 Morbihan
+   1 Moosic
+   1 Moorhead.
+   1 Monza
+   1 Montrose
+   1 Montretout
+   1 Montpellier
+   1 Montoya
+   1 Monti
+   1 Montezuma County
+   1 Monterey Park City
+   1 Monterey County
+   1 Montebelluna
+   1 Montbéliard
+   1 Monroeville
+   1 Monongahela
+   1 Mono Lake
+   1 Mongolia
+   1 Monforte de Lemos
+   1 Mon
+   1 Mominia Klisura
+   1 Molėtai
+   1 Molenbeek
+   1 Mokelumne Hill
+   1 Mohawk
+   1 Modoc
+   1 Modern World
+   1 Modern Languages
+   1 Modern History
+   1 Mladá Fronta
+   1 Mladoševica
+   1 Mitchellville
+   1 Mitakides
+   1 Missouri.
+   1 Missouri River
+   1 Missouri City
+   1 Mississippi.
+   1 Mississippi's Gulf
+   1 Mississauga South
+   1 Mississauga
+   1 Missions National Park
+   1 Mission Woods
+   1 Miss South Carolina
+   1 Miss New York
+   1 Miskolc
+   1 Miroslawa
+   1 Mirandela
+   1 Miramar
+   1 Minnetonka
+   1 Minneapolis-based 5th District
+   1 Mineu
+   1 Minda de
+   1 Minas Gerais
+   1 Milwaukie
+   1 Mills
+   1 Millau
+   1 Millard
+   1 Mill Springs
+   1 Mill Creek
+   1 Miljoenennota
+   1 Milano
+   1 Miklosi
+   1 Mielno
+   1 Midwestern States
+   1 Midway City
+   1 Midway
+   1 Midlothian
+   1 Mideast
+   1 Middle-East
+   1 Middle Village
+   1 Middle Rhine
+   1 Middle East Peace
+   1 Middle East Partnership Initiative
+   1 Michigan State
+   1 Mexico-United States
+   1 Meurthe-et-Moselle
+   1 Mettmann
+   1 Metrorail
+   1 Metro-East
+   1 Mesa Verde National Park
+   1 Mesa
+   1 Merton
+   1 Merkel
+   1 Merika
+   1 Meridiane
+   1 Mercer Island
+   1 Mequon
+   1 Mendoza
+   1 Mendota Heights
+   1 Mendocino
+   1 Melville
+   1 Mell
+   1 Melbourne Australia
+   1 Melba
+   1 Meeuws
+   1 Mediterranean Corridor
+   1 Medina
+   1 Medical Center
+   1 Medford
+   1 Mecklenburg-Vorpommern
+   1 Mechelen
+   1 Meadville
+   1 Meadows
+   1 Mead
+   1 Md.
+   1 McMullen
+   1 McLean County
+   1 McLean
+   1 McLaughlin
+   1 McKenna
+   1 McKeesport
+   1 McKay
+   1 McDowell
+   1 McCormick County
+   1 McClung
+   1 McClelland
+   1 McAndrews
+   1 McAllen
+   1 Maňka
+   1 Mayoralty
+   1 Mayenne
+   1 Mayagüez
+   1 Maverick
+   1 Mauritania
+   1 Maui
+   1 Massachusetts State
+   1 Mass.
+   1 Mass Surveillance
+   1 Mason City
+   1 Maryland.
+   1 Martinez
+   1 Marshfield
+   1 Mars Volta
+   1 Mars Hill
+   1 Maroussi
+   1 Mark Twain
+   1 Mariposa
+   1 Marion County
+   1 Marini
+   1 Marin
+   1 Maribor
+   1 Mariana
+   1 Maple Heights
+   1 Maple Grove
+   1 Manzullo
+   1 Mantua
+   1 Manorhamilton
+   1 Manoa
+   1 Manila
+   1 Mangham
+   1 Mangalore
+   1 Manescu
+   1 Mandarin
+   1 Manchester United
+   1 Manawatu
+   1 Management Engineering
+   1 Mamikins
+   1 Mamaroneck
+   1 Malone
+   1 Mall
+   1 Malibu
+   1 Maldives
+   1 Malala Yousafzai
+   1 Makua
+   1 Makkinga
+   1 Makedonia Airport
+   1 Makaha
+   1 Mainz
+   1 Maine Rx
+   1 Maidan Nezalezhnosti
+   1 Maglie
+   1 Maghreb
+   1 Maghaberry Prison
+   1 Magee
+   1 Magazine
+   1 Mafia
+   1 Madison County
+   1 Madill
+   1 Madame Tussauds
+   1 Madagascar
+   1 Macomb
+   1 Maceió
+   1 Ma'ili
+   1 ME
+   1 MD.
+   1 MD
+   1 Lębork
+   1 Lüchow-Dannenberg
+   1 Lübeck
+   1 Lágymányosi
+   1 Lynwood
+   1 Lynn
+   1 Lycée Lamartine
+   1 Lučenec
+   1 Luxembourg City
+   1 Lunzenau
+   1 Lungren
+   1 Luna
+   1 Lumpkin Street
+   1 Lumpkin
+   1 Luján
+   1 Luetkemeyer
+   1 Lucerne
+   1 Lucera
+   1 Lubuskie Region
+   1 Lublin
+   1 Lowndes County
+   1 Lower-Saxony
+   1 Lower Saxonia
+   1 Lower Peninsula
+   1 Lower East Side
+   1 Lower Bavaria
+   1 Lower Austria
+   1 Lowell Clinton
+   1 Lowell
+   1 Lovelace
+   1 Louisburg
+   1 Louisa County
+   1 Louhans
+   1 Loudonville
+   1 Lott
+   1 Lothians
+   1 Los Rios
+   1 Los Lunas
+   1 Los Dregtones
+   1 Los Angeles River
+   1 Los Alamos
+   1 Lorraine
+   1 Lorient
+   1 Lorain
+   1 Lopez
+   1 Longford
+   1 Longboat Key
+   1 Lolita
+   1 Loita Labrega
+   1 Loire
+   1 Logistical Support Area
+   1 Loganville
+   1 Lleida
+   1 Livingston
+   1 Little Traverse Bay
+   1 Little Rock
+   1 Literature
+   1 Litchfield County
+   1 List of
+   1 Lisle
+   1 Lisburn
+   1 Linz
+   1 Linthicum
+   1 Linder
+   1 Lincolnton
+   1 Lincoln Park
+   1 Lincoln County
+   1 Lille
+   1 Likely
+   1 Lijst Vijf Fortuyn
+   1 Liechtenstein
+   1 Lido Beach
+   1 Libya.Farage
+   1 Libra
+   1 Liberty
+   1 Liberia
+   1 Liberalismul
+   1 Lib
+   1 Levy
+   1 Letta
+   1 Letchworth
+   1 Les Républicains
+   1 Les Mouches Fantastiques
+   1 Les Balkans
+   1 Leopoldina
+   1 Leon Valley.
+   1 Lenoir
+   1 Lemon Grove
+   1 Leloaloa
+   1 Leiden
+   1 Leicester City
+   1 Left Bloc
+   1 Lechuga
+   1 Leadership Palm Beach County
+   1 Lay
+   1 Lawyers
+   1 Lawndale
+   1 Laurens
+   1 Laurelton
+   1 Lauralton Hall
+   1 Latham
+   1 Las Cruces
+   1 Larzac
+   1 Larissa
+   1 Largo
+   1 Large
+   1 Larchmont
+   1 Lansdowne
+   1 Languedoc-Roussillon
+   1 Langdale
+   1 Lane County
+   1 Landstuhl
+   1 Landry
+   1 Land O' Lakes
+   1 Lancaster County
+   1 Lampa
+   1 Lambda Chi Alpha
+   1 Lamar
+   1 Lakota
+   1 Lakeville
+   1 Lakeview
+   1 Lakeside
+   1 Lakes
+   1 Lake Texoma
+   1 Lake Tahoe Basin
+   1 Lake Eufala
+   1 Lajes Field
+   1 Laguna Hills
+   1 Lafontaine
+   1 Labour-held
+   1 Labour
+   1 LaGrange
+   1 La Trinité-sur-Mer
+   1 La Trinité
+   1 La Salle
+   1 La Palma.
+   1 La Mesa
+   1 La Jolla
+   1 La Esperanza
+   1 La Choca
+   1 LSO
+   1 LIPA
+   1 LGBTI
+   1 LEADER
+   1 LB
+   1 LAX
+   1 LA
+   1 Kırklareli
+   1 Köping Municipality
+   1 Kyustendil
+   1 Kyiv
+   1 Kuyavian-Pomeranian Voivodship
+   1 Kutná Hora
+   1 Kustoff
+   1 Kurdistan
+   1 Kungsör
+   1 Kummer
+   1 Kulltorp
+   1 Kremsmünster Abbey
+   1 Kreistag
+   1 Krefeld
+   1 Kraft-Brandes-Culberston Farmstead
+   1 Košice
+   1 Kozloduy Nuclear Power Plant
+   1 Kovatchev
+   1 Kouaoua
+   1 Kotter
+   1 Kote
+   1 Kotah
+   1 Koster
+   1 Korčula
+   1 Kortrijk
+   1 Korean peninsula
+   1 Kommunistischer Bund Westdeutschland
+   1 Koekelberg
+   1 Ko Olina
+   1 Knockataggle
+   1 Knob Noster
+   1 Klopka
+   1 Klickitat Counties
+   1 Klagenfurt
+   1 Kissimmee
+   1 Kirov
+   1 Kirkuk
+   1 Kingston upon Hull
+   1 Kingsport
+   1 Kings Mountain
+   1 Kings County
+   1 Kingman
+   1 King of Prussia
+   1 Kindred
+   1 Kincaid
+   1 Kilkenny
+   1 Kilcummin
+   1 Kielce
+   1 Kherson
+   1 Kharkiv
+   1 Khandwa
+   1 Keystone
+   1 Key West
+   1 Kew Gardens Hills
+   1 Kettle Falls
+   1 Ketron
+   1 Ketchikan
+   1 Kesteven
+   1 Kerry South
+   1 Kerr
+   1 Kern
+   1 Kerala
+   1 Kentwood
+   1 Kentish Town
+   1 Kennisandra Arciniegas-Jeffries
+   1 Kenney
+   1 Kelloggsville
+   1 Keller
+   1 Keith
+   1 Keichousaurus
+   1 Keene
+   1 Kazzinc
+   1 Kazakstan
+   1 Kazahkstan
+   1 Kaysville
+   1 Kay
+   1 Kaufmann
+   1 Kaufman
+   1 Katy
+   1 Kasten
+   1 Kassel.
+   1 Kasseedorf
+   1 Karnataka
+   1 Kara
+   1 Kaptur
+   1 Kapellen
+   1 Kaohsiung
+   1 Kanta
+   1 Kansas City Missouri
+   1 Kano
+   1 Kankakee
+   1 Kane
+   1 Kandahar
+   1 Kanak
+   1 Kan.
+   1 Kammerer
+   1 Kambove
+   1 Kalk
+   1 Kalesninkai
+   1 Kahe Point
+   1 Kaffenberger
+   1 Kabila
+   1 Kabale
+   1 Ka'ena Point
+   1 KY.
+   1 KU
+   1 KK
+   1 K-10 expressway
+   1 Jönköping Municipality
+   1 Jyväskylä
+   1 Jyrki Katainen
+   1 Jutrosin
+   1 Justus
+   1 Justice Studies
+   1 Justice
+   1 Juodšiliai
+   1 Junior State of
+   1 Jungle World
+   1 Junction
+   1 Juarez
+   1 Journalism
+   1 Joure
+   1 José Ignacio Salafranca Sánchez-Neyra
+   1 Joplin
+   1 Jonestown.
+   1 Joker
+   1 Joint Detention Facility
+   1 Johnstown
+   1 Johnston
+   1 Johnson Space Center
+   1 John Murtha.
+   1 Joe García
+   1 Jimtown
+   1 Jihlava
+   1 Jiangsu
+   1 Jiangmen
+   1 Jewell
+   1 Jenison
+   1 Jelenin
+   1 Jeffersonville
+   1 Jazz Performance
+   1 Jayapal
+   1 Jasło
+   1 Jasper
+   1 Janez Drnovšek
+   1 Janesville.Zerban
+   1 Jan
+   1 Jalisco
+   1 Jalalabad
+   1 Jakobsberg
+   1 Jahr
+   1 JFK Airport
+   1 J.D.
+   1 Iñigo Méndez de Vigo
+   1 Izmir
+   1 Itawamba
+   1 Italian
+   1 Itacoatiara
+   1 Istanbul-born
+   1 Istanbul
+   1 Issa
+   1 Islip
+   1 Islington
+   1 Isleworth
+   1 Islands Commonwealth Legislature
+   1 Island
+   1 Islamabad
+   1 Islam
+   1 Isabella
+   1 Irvington
+   1 Iruma.
+   1 Irresponsibles
+   1 Iredell
+   1 Iraq.Cohen
+   1 Iona
+   1 Inwood
+   1 International Law
+   1 International Development
+   1 Intergroups
+   1 Innsbruck
+   1 Innovate
+   1 Inner Mongolia
+   1 Inland Empire of Southern
+   1 Inishbofin
+   1 Ingraham
+   1 Inglewood
+   1 Infante Dom Henrique
+   1 Indonesia
+   1 Indochina
+   1 Indian town
+   1 Indian Ocean
+   1 Independents
+   1 Ind.
+   1 Ind
+   1 Imperial County
+   1 Imathia
+   1 Illinois Springfield
+   1 Ile-de-France
+   1 Ile de
+   1 Il Popolo della Libertà
+   1 Il
+   1 Iceland
+   1 Iaşi
+   1 IRL
+   1 INSEAD
+   1 IN
+   1 IL-16
+   1 IDAHO
+   1 I. Beverly Lake
+   1 I-69
+   1 I-5 freeway
+   1 Hỏa Lò Prison
+   1 Hökmark
+   1 Hydrozagadka
+   1 Hvidovre
+   1 Hutchison
+   1 Hutchinson.
+   1 Hutchins
+   1 Huntington Beach
+   1 Hunterdon County
+   1 Hunter.
+   1 Hunedoara County
+   1 Humboldt County
+   1 Humboldt
+   1 Humble
+   1 Humber
+   1 Humacao
+   1 Hull East
+   1 Hull City
+   1 Hull
+   1 Hudsonville
+   1 Hudson Valley
+   1 Huddersfield Town
+   1 Huber Heights
+   1 Hove
+   1 House Republicans
+   1 House District
+   1 Hornchurch
+   1 Horizon Europe
+   1 Honouliuli Internment Camp
+   1 Honolulu.
+   1 Holywell
+   1 Holyrood
+   1 Holyoke
+   1 Holyhead
+   1 Holt
+   1 Holmes County
+   1 Hollyoaks
+   1 Holcomb
+   1 Hoke
+   1 Hochul
+   1 Hobson
+   1 Hoboken
+   1 Ho Chi Minh City
+   1 Hinsdale
+   1 Hinesville
+   1 Hilton Head Island
+   1 Hills
+   1 Highland Park
+   1 Highland Heights
+   1 High Wycombe
+   1 High Point
+   1 Heworth Colliery
+   1 Heteborn
+   1 Hertfordshire
+   1 Herriman
+   1 Hernani
+   1 Hermosa Beach
+   1 Hermiston
+   1 Herkimer County
+   1 Herenton
+   1 Herefordshire
+   1 Hercules
+   1 Hennepin County
+   1 Hennepin Counties
+   1 Henley
+   1 Hendersonville
+   1 Hempstead
+   1 Heights
+   1 Heidenheim
+   1 Heerenveen
+   1 Hedrick
+   1 HealthCare.gov
+   1 Hazelton
+   1 Haywood
+   1 Hays
+   1 Hawthorne
+   1 Hawkins
+   1 Hawaiian Gardens
+   1 Haverstraw
+   1 Havelock
+   1 Hautmont
+   1 Haute-Normandie
+   1 Haut-Katanga District
+   1 Hattersheim
+   1 Hate Free Zone
+   1 Hastings-on-Hudson
+   1 Hasselkopf Mountain
+   1 Harz
+   1 Harvey
+   1 Hartsdale
+   1 Hartford.
+   1 Harrisonville
+   1 Harrisonburg
+   1 Harold Hill
+   1 Harney County
+   1 Harman
+   1 Harlingen
+   1 Harlem Désir
+   1 Harghita
+   1 Hardin
+   1 Harder
+   1 Harcigny
+   1 Harbor City
+   1 Harbor
+   1 Hanson
+   1 Hanover.
+   1 Hanoi
+   1 Hannover
+   1 Hanford
+   1 Handsworth Wood
+   1 Handsworth
+   1 Hampton
+   1 Hamlin County
+   1 Hamlin
+   1 Hamilton Township
+   1 Hamer
+   1 Hamden
+   1 Hallmark Cards
+   1 Halle
+   1 Hall of Fame
+   1 Halifax
+   1 Half Moon Bay
+   1 Haleyville
+   1 Hale County
+   1 Haguenau
+   1 Hagerstown
+   1 Hackleburg
+   1 Haarlem
+   1 HART
+   1 H.Res
+   1 Gąski
+   1 Gębarzewo
+   1 Göttingen.
+   1 Góis
+   1 Gymnazium Vazovova
+   1 Gwinnett
+   1 Gun Hill Road
+   1 Gulfport
+   1 Gujarat
+   1 Guipuzcoa
+   1 Guinea-Bissau
+   1 Guilderland Center.
+   1 Guernsey
+   1 Guerini
+   1 Guccifer
+   1 Guatemala City
+   1 Guangdong
+   1 Guam.Sablan
+   1 Guadalupe County
+   1 Guadalupe
+   1 Grădina Icoanei
+   1 Grünerløkka
+   1 Grójec
+   1 Großmugl
+   1 Großkuchen
+   1 Groß-Gerau
+   1 Groben
+   1 Gro Farseth
+   1 Grisham
+   1 Grimma.
+   1 Grimethorpe
+   1 Greenwood
+   1 Greenwich Village
+   1 Greensburg
+   1 Greenland
+   1 Greeneville
+   1 Greene
+   1 Greenburgh
+   1 Green River
+   1 Green MP
+   1 Green Bay
+   1 Greek
+   1 Greater Poland
+   1 Greater London
+   1 Great Neck
+   1 Great Barr
+   1 Graz
+   1 Grayson
+   1 Grays
+   1 Gravinia Island Bridge
+   1 Gravina Island
+   1 Graubünden
+   1 Grantham
+   1 Grand Rapids
+   1 Grand Est.
+   1 Grand
+   1 Granby
+   1 Granbury
+   1 Grafton County
+   1 Gracie
+   1 Gracia
+   1 Graceville
+   1 Gowanda
+   1 Gouda.
+   1 Gothenburg City Theatre
+   1 Gothenburg
+   1 Gotham
+   1 Goss
+   1 Gosar
+   1 Gorzów Wielkopolski
+   1 Gordon
+   1 Goodyear
+   1 Gold Coast
+   1 Gnosjö Municipality
+   1 Gloucestershire
+   1 Gloucester
+   1 Glenville
+   1 Glenview
+   1 Glenn
+   1 Glendive
+   1 Glencolmcille
+   1 Glen Allen
+   1 Glasscock County
+   1 Glamorgan
+   1 Gitmo
+   1 Gilroy
+   1 Gilliam
+   1 Gijón
+   1 Giessen
+   1 Gien
+   1 Ghostkeeper
+   1 Ghana
+   1 Getxo
+   1 Germantown
+   1 German Democratic Republic
+   1 German
+   1 Gergő
+   1 George Washington
+   1 Genesee County
+   1 General de Gaulle
+   1 Gelsenkirchen
+   1 Gelderland
+   1 Gdańsk.
+   1 Gaza Blockade
+   1 Gay
+   1 Gateshead
+   1 Gates
+   1 Gaston County
+   1 Gaskins
+   1 Garrison
+   1 Garmisch-Partenkirchen
+   1 Gardini
+   1 Gardens
+   1 Garden State Equality
+   1 Garden Grove City
+   1 Garda Síochána
+   1 Gander
+   1 Galveston
+   1 Gallego
+   1 Gallatin
+   1 Galiza
+   1 Galaţi County
+   1 Galaţi
+   1 Gaines
+   1 Gaffney
+   1 Gaetz
+   1 Gaeltacht
+   1 Gadsden
+   1 Gabon
+   1 G7 Summit
+   1 Funchal
+   1 Fulton
+   1 Fulham Road
+   1 Fulham
+   1 Ft. Leonard Wood
+   1 Ft.
+   1 Friedberg
+   1 Fresnillo
+   1 Frenchman
+   1 French Brittany
+   1 Fremantle
+   1 Freiburg
+   1 Freedom Today
+   1 Freedom Park
+   1 Frederiksberg Church
+   1 Fredericks
+   1 Frederick County
+   1 Frechen
+   1 Fraser
+   1 Franziska
+   1 Franklin County
+   1 Frankfurter Allgemeine Zeitung
+   1 Francophonie
+   1 Francis Close Hall
+   1 Foxborough
+   1 Fox Point
+   1 Fourth Congressional District
+   1 Forth Road Bridge
+   1 Fort Worth.Veasey
+   1 Fort Wadsworth
+   1 Fort Rucker
+   1 Fort Lewis
+   1 Fort Leonard Wood
+   1 Fort Lauderdale.
+   1 Fort Knox
+   1 Fort Indiantown Gap
+   1 Fort Greene Park
+   1 Fort George
+   1 Fort Collins
+   1 Fort Bend County
+   1 Fort Belvoir
+   1 Forrest
+   1 Forestville
+   1 Forbach
+   1 Fontenot
+   1 Fontana
+   1 Fontainebleau
+   1 Folkestone
+   1 Foggia
+   1 Fog Island
+   1 Floyd
+   1 Florissant
+   1 Florida.She
+   1 Flint.
+   1 Flint Township
+   1 Flinn
+   1 Flanders.
+   1 Flacks
+   1 Fitzgerald
+   1 Fisk
+   1 Fishers
+   1 Fisher
+   1 Firth
+   1 Fire Island
+   1 Fioroni
+   1 Findlay
+   1 Figueroa
+   1 Fight Back Bay
+   1 Fifth District
+   1 Fidenza.
+   1 Fianarantsoa
+   1 Ferndale
+   1 Ferguson
+   1 Fergus Falls
+   1 Feliksas
+   1 Feldthurns.
+   1 Feld
+   1 Federated States of Micronesia
+   1 Federal Republic of Yugoslavia
+   1 Federal Judicial Center
+   1 Federal Building
+   1 Fayetteville
+   1 Faught
+   1 Faroe Islands
+   1 Farnborough
+   1 Farmville
+   1 Farmington Valley
+   1 Fargo
+   1 Farciennes.
+   1 Far Rockaway
+   1 Fall River
+   1 Falklands
+   1 Falkland Islands
+   1 Falkland
+   1 Falkirk
+   1 Faith Communities
+   1 Fairport
+   1 Fairford
+   1 Fairfax
+   1 Fairchild
+   1 Fairbanks
+   1 Fair Lawn
+   1 FL
+   1 FC
+   1 FADA
+   1 Exeter City
+   1 Exarchia
+   1 Evžen Tošenovský
+   1 Evergreen State
+   1 Eutin
+   1 Europeanism
+   1 European
+   1 Europa-Union
+   1 Euro
+   1 Esztertáska
+   1 Estoril
+   1 Estill County
+   1 Essen
+   1 España
+   1 Escondido
+   1 Escobar
+   1 Erwin
+   1 Ertug
+   1 Erath County
+   1 Enzi
+   1 Enköping
+   1 English-History
+   1 Endocrinology
+   1 Endicott
+   1 Encinitas
+   1 Empress
+   1 Empowerment Zone
+   1 Empire
+   1 Elyria
+   1 Elwood
+   1 Elmore
+   1 Elmhurst
+   1 Ellis Island
+   1 Ellis
+   1 Elko.
+   1 Elkhart County
+   1 Elizabeth City
+   1 Electric
+   1 Elbert County
+   1 El País
+   1 El Paso County
+   1 El Dorado County
+   1 El Chapulín
+   1 El Cairo
+   1 Ekonomista
+   1 Ekeren
+   1 Eisacktal
+   1 Eira
+   1 Edwards Air Force Base
+   1 Eduskunta
+   1 Editura
+   1 Edith-Stein-Gymnasium
+   1 Edinburg
+   1 Edgeworth
+   1 Edgewater
+   1 Ector County
+   1 Ecolo
+   1 Ecker
+   1 Echo Park
+   1 Eau Claire
+   1 Eastside
+   1 Eastpointe
+   1 Eastleigh
+   1 Eastern Suffolk County
+   1 Eastern Studies
+   1 Eastern Panhandle
+   1 Eastern North Carolina
+   1 Eastern Montgomery County
+   1 Eastern District of
+   1 Eastern Affairs
+   1 Eastchester
+   1 Eastbourne
+   1 East-West Center
+   1 East of
+   1 East Yorkshire
+   1 East Vincent Township
+   1 East Valley
+   1 East Timor
+   1 East Side
+   1 East Prairie
+   1 East Montgomery
+   1 East Midland
+   1 East Los Angeles
+   1 East Lindsey
+   1 East India
+   1 East Haven
+   1 East Hampton
+   1 East Gallatin River
+   1 East Freedom
+   1 East France
+   1 East Europe
+   1 East End of
+   1 East Elmhurst
+   1 East Dayton
+   1 East Contra Costa County
+   1 East Coast
+   1 East Anglia
+   1 Eagle Pass.
+   1 Eagle
+   1 EU-Ebene
+   1 E.U.
+   1 Děčín
+   1 Döbeln -
+   1 Díez
+   1 Díaz-Balart
+   1 Dáil Éireann
+   1 Dzhebel
+   1 Dyess Air Force Base
+   1 Duval
+   1 Dutch
+   1 Durkee
+   1 Durban
+   1 Dupnitsa
+   1 Dunlap
+   1 Dunfermline
+   1 Dundee
+   1 Dudelange
+   1 Dubai
+   1 DuPage County
+   1 DuPage
+   1 Drôme
+   1 Drobeta-Turnu Severin
+   1 Dreyer
+   1 Drake
+   1 Doylestown
+   1 Downe
+   1 Douglas County
+   1 Douglas
+   1 Dothan
+   1 Dortmund
+   1 Dorset
+   1 Dondukov Boulevard
+   1 Donchev
+   1 Doncaster
+   1 Donbass
+   1 Don-Bosco
+   1 Dominique de Villepin
+   1 Dombrovskis
+   1 Dolj
+   1 Dohrmann
+   1 Dogtooth
+   1 Dodge
+   1 Djibouti
+   1 Dizon
+   1 Dixon
+   1 District 48
+   1 District 11
+   1 District 101
+   1 Disneyland
+   1 Dinuba
+   1 Dinkins
+   1 Diessen
+   1 Diepenheim
+   1 Diekirch
+   1 Die PARTEI
+   1 Die
+   1 Dickinson
+   1 Dialnet
+   1 Di Pietro
+   1 Dharamsala
+   1 Dhanushkodi
+   1 Dewberry
+   1 Devonshire
+   1 Devine
+   1 Deventer
+   1 Devens
+   1 Development - Small Islands
+   1 Destrnik
+   1 Desseigne
+   1 Des Plaines
+   1 Derby County
+   1 Deputy Lewis County
+   1 Denton County
+   1 Denton
+   1 Dent
+   1 Dennis
+   1 Denison
+   1 Dendermonde
+   1 Democrats
+   1 Democratic Republic
+   1 Democratic Montgomery County
+   1 Democratic Franklin County
+   1 Democratic Erie County
+   1 Democratic Centre County
+   1 Democracy
+   1 Deloitte
+   1 Delano
+   1 Delahunt
+   1 Del Norte
+   1 Dej
+   1 Defiance
+   1 Decker
+   1 Debrecen
+   1 Debout la France
+   1 Deadwood
+   1 Deacon
+   1 DeSoto
+   1 DeGroat
+   1 Daytona Beach
+   1 Davie County
+   1 Dartmouth
+   1 Darmstadt
+   1 Dardenne
+   1 Dar es Salaam
+   1 Danube Strategy
+   1 Danube Delta
+   1 Danube
+   1 Danner
+   1 Dannebrog
+   1 Danbury
+   1 Dana Point
+   1 Dalton.In
+   1 Dalles
+   1 Dain
+   1 Daimiel
+   1 Dade County Psychol
+   1 DWARS
+   1 DR
+   1 DEUTSCHLAND
+   1 DAWA
+   1 D-Orlando
+   1 D-Calif
+   1 Călăraşi
+   1 Câmpulung
+   1 Czech republic
+   1 Czech
+   1 Cuxhaven.McAllister
+   1 Curiel
+   1 Curentul
+   1 Curacao
+   1 Cumberland
+   1 Cullen
+   1 Cudahy
+   1 Crystal
+   1 Crossnore
+   1 Crooked River
+   1 Cromnibus
+   1 Croke Park
+   1 Croix
+   1 Cremona
+   1 Creighton
+   1 Crawley
+   1 Crawfordsville
+   1 Crapo
+   1 Crane
+   1 Cranbrook
+   1 Cracow
+   1 Coyne
+   1 Cousin Cousine
+   1 Courthouse
+   1 Court
+   1 Cour
+   1 Coupeville
+   1 County Sligo
+   1 County Leitrim
+   1 County Galway
+   1 County Down
+   1 County Donegal.Anderson
+   1 County Cavan
+   1 County Armagh
+   1 Cotroceni Palace
+   1 Costa Rica
+   1 Cortez
+   1 Correze
+   1 Coronado
+   1 Cork
+   1 Coral Gables
+   1 Coppell
+   1 Copeland
+   1 Coos Bay
+   1 Cooney
+   1 Cook County State
+   1 Cook County
+   1 Conway
+   1 Convention Center
+   1 Convent
+   1 Constanţa
+   1 Constantinople
+   1 Conn.
+   1 Congressional Town Hall
+   1 Congress.Peters
+   1 Congress.
+   1 Congress Act
+   1 Congers
+   1 Confédération
+   1 Confluencias
+   1 Coney Island
+   1 Community Development
+   1 Communication Sciences
+   1 Commerzbank
+   1 Comer
+   1 Columubus
+   1 Columbus, Ohio
+   1 Colson
+   1 Colorado State
+   1 Cologne
+   1 Collège de France
+   1 Collier County
+   1 College
+   1 Coleman
+   1 Cole County
+   1 Codington
+   1 Cockeysville
+   1 Cobb
+   1 Coast
+   1 Coachoo
+   1 Coachella Valley
+   1 Coachella
+   1 Cluj
+   1 Cloonchambers Bog
+   1 Clinical Hospital Center
+   1 Cleveland Heights
+   1 Clermont-Ferrand
+   1 Clermont County
+   1 Clermont
+   1 Clements
+   1 Clawson
+   1 Clatsop
+   1 Clarksville
+   1 Clarendon County
+   1 Clarence Center
+   1 Claremorris
+   1 Ciudad Real
+   1 Ciudad Juarez
+   1 City Island
+   1 City Hall
+   1 Citrus County
+   1 Cintra-Macquarie
+   1 Cicilline
+   1 Ciceu
+   1 Ciboure
+   1 Château-Gontier
+   1 Chuuk
+   1 Churchill
+   1 Chula Vista
+   1 Chrudim
+   1 Christopher Street Park
+   1 Christopher Street
+   1 Christ Church
+   1 Choszczno
+   1 Chorzów
+   1 Chomutov
+   1 Choice
+   1 Choate Rosemary Hall
+   1 Choate
+   1 Chisolm
+   1 Chislehurst
+   1 Chisholm United States
+   1 Chisholm
+   1 Chipping Norton
+   1 Chino
+   1 Chingford
+   1 Chimbote
+   1 Chihuahua
+   1 Chigley
+   1 Chicago.
+   1 Chevigny-Saint-Sauveur
+   1 Cheverly
+   1 Chestertown
+   1 Chester County
+   1 Chespirito
+   1 Chesapeake Bay
+   1 Cherwell
+   1 Cherryville
+   1 Cherry County
+   1 Chernobyl
+   1 Chenequa
+   1 Chenango County
+   1 Chemung
+   1 Chemistry
+   1 Chelsea
+   1 Chellie Pingree
+   1 Chauprade
+   1 Chattanooga.
+   1 Chatham
+   1 Charlotte County
+   1 Charlieu
+   1 Charleston County
+   1 Charles Town
+   1 Charles City County
+   1 Chappaqua
+   1 Chania
+   1 Chandler
+   1 Champaign County
+   1 Chadron
+   1 Ceylon
+   1 Cerro Gordo
+   1 Cerritos
+   1 Centre-North
+   1 Centre County
+   1 Central and South
+   1 Central Park
+   1 Central Ohio
+   1 Central New York
+   1 Central Italy
+   1 Central Islip
+   1 Central Europe
+   1 Center Township
+   1 Celldömölk
+   1 Cedar Rapids.
+   1 Ceaux-en-Couhé
+   1 Cayo Mambi
+   1 Cave Creek
+   1 Cavan
+   1 Cattaragus
+   1 Catholicism
+   1 Cathedral City
+   1 Catawba County
+   1 Castro Valley
+   1 Castlewood.
+   1 Castlerea
+   1 Castle
+   1 Castellón
+   1 Castelfranco Emilia
+   1 Caspian Sea
+   1 Casper
+   1 Caspary
+   1 Cascades
+   1 Cascade Township
+   1 Casanova
+   1 Carterton District
+   1 Cartersville
+   1 Cartagena
+   1 Carswell
+   1 Carshalton
+   1 Caroline
+   1 Carolina
+   1 Carol Stream
+   1 Carney
+   1 Carnegie Hall
+   1 Carnahan
+   1 Carmichael
+   1 Carlton
+   1 Carlsbad
+   1 Caraş-Severin
+   1 Capitol Theatre
+   1 Capitol Hill.Pelosi
+   1 Capitol Building
+   1 Capito
+   1 Cape and Islands Office
+   1 Cape and Islands
+   1 Cape Verde
+   1 Cape May Court House
+   1 Cape Canaveral
+   1 Cape
+   1 Canterbury
+   1 Canteleu
+   1 Cantabria
+   1 Cannon House Office Building
+   1 Cancun
+   1 Canary Islands
+   1 Canadian County.
+   1 Canada.
+   1 Campobasso
+   1 Campellsport
+   1 Campbell
+   1 Campania Region
+   1 Campaign
+   1 Camp Lejeune
+   1 Camp Casey
+   1 Camp Ashraf
+   1 Camp
+   1 Camden.
+   1 Cambria Heights
+   1 Camboya
+   1 Camas
+   1 Callaway County
+   1 California.
+   1 California State
+   1 Calhoun county
+   1 Calendar
+   1 Calella
+   1 Caledonia
+   1 Caldwell
+   1 Calcasieu
+   1 Calaveras
+   1 Calabria
+   1 Cal Poly
+   1 Cajalco
+   1 Caicos
+   1 Cache Valley
+   1 Cabell County
+   1 CT
+   1 COROMINES
+   1 COO
+   1 CECOM
+   1 Băneasa
+   1 Béjaïa
+   1 Business Management
+   1 Business Hall of Fame
+   1 Business Administration
+   1 Bushwick
+   1 Burwell
+   1 Burtons
+   1 Burt County
+   1 Burt
+   1 Burris
+   1 Burnage.
+   1 Burma
+   1 Burlingame
+   1 Burkina Faso
+   1 Burford.Moody
+   1 Burford
+   1 Bundy
+   1 Bundeswehr
+   1 Buncrana
+   1 Buncombe
+   1 Bulgarophobic
+   1 Bulgaria.Also
+   1 Bulawayo
+   1 Bulandra Theater
+   1 Budapest.
+   1 Buckinghamshire
+   1 Bucharest.
+   1 Bucharest Romania
+   1 Buch
+   1 Bubu
+   1 Bryan
+   1 Bruun
+   1 Brussels.Smith
+   1 Brussels-Capital Region
+   1 Brussels Airport
+   1 Brunswick
+   1 Brundidge
+   1 Brownwood
+   1 Brownsburg
+   1 Broward
+   1 Brovst
+   1 Brook
+   1 Bronxville
+   1 Brna
+   1 Brixen
+   1 Bristol West
+   1 Bristol County
+   1 Brierfield
+   1 Bridgeton
+   1 Bridge
+   1 Briarwood
+   1 Briare
+   1 Brevard
+   1 Bretagne
+   1 Bresse
+   1 Brentwood
+   1 Bremen.
+   1 Breda
+   1 Brechin City
+   1 Braşov.In Deletant
+   1 Braunlage
+   1 Brat
+   1 Branson
+   1 Brannon
+   1 Brandenburg
+   1 Braley
+   1 Brainerd
+   1 Brackett
+   1 Boyle Heights
+   1 Boyda
+   1 Boyd
+   1 Box Elder
+   1 Bowman Dam
+   1 Bow Lake Elementary
+   1 Bourne
+   1 Bourgogne-Franche-Comté
+   1 Bourges
+   1 Boulder County
+   1 Botswana
+   1 Boston Marathon
+   1 Boston City
+   1 Borrelli
+   1 Borough Park
+   1 Bornholm
+   1 Borinqueneers
+   1 Borger
+   1 Bono
+   1 Bonham
+   1 Bongino
+   1 Bondues
+   1 Bolzano
+   1 Bolivia
+   1 Boise
+   1 Bohemia
+   1 Bogside
+   1 Bogotá
+   1 Bluffton
+   1 Bloomington Normal
+   1 Blendon Township
+   1 Blanco
+   1 Blaj
+   1 Blair County
+   1 Blackrock
+   1 Black Warrior River
+   1 Black Sea basin
+   1 Black Sea
+   1 Black California
+   1 Black Belt Region
+   1 Björk
+   1 Bixler
+   1 Bitcoin
+   1 Bismarck
+   1 Bishops
+   1 Bird
+   1 Binghamton
+   1 Bingen am Rhein
+   1 Bindiani
+   1 Biltmore Park
+   1 Bilbray
+   1 Big Bird
+   1 Bielat
+   1 Bichat Hospital
+   1 Bibb County
+   1 Bhutan
+   1 Bexley
+   1 Betz
+   1 Bethesda
+   1 Bethany
+   1 Bestival
+   1 Bertrix
+   1 Berks County
+   1 Berks
+   1 Berkeley County
+   1 Berger
+   1 Bergen
+   1 Beregszász
+   1 Benton County
+   1 Benton
+   1 Bensonhurst
+   1 Benson
+   1 Bengal
+   1 Benevento
+   1 Bemidji
+   1 Belém
+   1 Belvedere
+   1 Belpre
+   1 Belmont
+   1 Bellflower
+   1 Bellevue
+   1 Belleville
+   1 Bellefonte
+   1 Belgrade
+   1 Belgian
+   1 Bejucal
+   1 Beiras
+   1 Bederkesa
+   1 Beaver County
+   1 Beaumont
+   1 Beaufort County
+   1 Bear
+   1 Beadle
+   1 Bayview
+   1 Baychester
+   1 Bay Ridge
+   1 Baxter
+   1 Batumi
+   1 Battlefield
+   1 Battery A
+   1 Bates
+   1 Batchelor
+   1 Bastogne
+   1 Bassano del Grappa
+   1 Bassano
+   1 Basque
+   1 Basingstoke
+   1 Basel
+   1 Basarabi
+   1 Bartholomew County
+   1 Barrs
+   1 Barroso
+   1 Barrier
+   1 Barr Street
+   1 Barnegat Light
+   1 Barlow
+   1 Baria
+   1 Bari
+   1 Barbados
+   1 Barangay Upper Calarian
+   1 Barakaldo
+   1 Bar
+   1 Baník
+   1 Banská Bystrica
+   1 Bangalore
+   1 Bandon
+   1 Banbury
+   1 Banat
+   1 Bambi
+   1 Baltimore City.
+   1 Baltic States
+   1 Baltic Sea States
+   1 Baltic Channel
+   1 Balochistan
+   1 Ballymun
+   1 Ballwin
+   1 Ballintogher
+   1 Ballinasloe
+   1 Ballentine
+   1 Ball
+   1 Balkan
+   1 Baldwin County
+   1 Baldwin
+   1 Balad
+   1 Bairbre de Brún
+   1 Bailundo
+   1 Bailey
+   1 Bagneux
+   1 Baden-Baden
+   1 Badajoz
+   1 Backa Theatre
+   1 Babylon
+   1 Babeu
+   1 BUDD
+   1 BRD
+   1 BDI
+   1 BC
+   1 Azur
+   1 Aztlán
+   1 Azores Islands
+   1 Aynor
+   1 Axuda
+   1 Avilés
+   1 Avila
+   1 Aveyron
+   1 Avery County
+   1 Avery
+   1 Aveley
+   1 Autauga
+   1 Australian Capital Territory
+   1 Australia/New Zealand Delegation
+   1 Auschwitz
+   1 Aumua
+   1 August
+   1 Audrain County
+   1 Audioslave
+   1 Auckland
+   1 Auburndale
+   1 Auburn
+   1 Attleboro
+   1 Atlético Huila
+   1 Atlantis
+   1 Atlantic City
+   1 Atlanta.
+   1 Atlanta City
+   1 Athletics
+   1 Atherton
+   1 Atchison
+   1 Atcham
+   1 Atascosa
+   1 Asturias
+   1 Ashland County
+   1 Ashkelon
+   1 Ashe County
+   1 Asbury Park
+   1 Artesia
+   1 Artero
+   1 Artax
+   1 Art
+   1 Arnsberg
+   1 Arnold
+   1 Arno
+   1 Armenian
+   1 Armagh
+   1 Arlon
+   1 Arlington Heights
+   1 Arkansas.
+   1 Arkadelphia
+   1 Arizona county
+   1 Argos
+   1 Arenys de Noguera
+   1 Arduzel
+   1 Ardsley
+   1 Ardooie
+   1 Arctic Circle
+   1 Archie
+   1 Araujo
+   1 Arafat
+   1 Arabian Peninsula
+   1 Appleton
+   1 Apache
+   1 Aosdána
+   1 Anupriškės
+   1 Antsirabé
+   1 Antioch
+   1 Antelope Valley
+   1 Anoka County
+   1 Annunciata M
+   1 Anniston
+   1 Annemans
+   1 Anne Arundel County
+   1 Anne Arundel
+   1 Annapolis
+   1 Ann Arbor
+   1 Anivia
+   1 Animal Sciences
+   1 Animal Science
+   1 Angola
+   1 Andrikienė
+   1 Andalucía
+   1 Anbar Province
+   1 Anastasia
+   1 Anaheim City
+   1 Anaconda
+   1 Amodei
+   1 Amman
+   1 Amiantos
+   1 Amherst
+   1 Ames
+   1 Americanito
+   1 American Studies
+   1 American Republic
+   1 Amend
+   1 Ambt Delden
+   1 Amarillo.Thornberry
+   1 Amalfi
+   1 Alvin
+   1 Altoona
+   1 Altea
+   1 Altamonte Springs
+   1 Alpine
+   1 Alma Shalabayeva
+   1 Allegany
+   1 Aliwal
+   1 Aliso Viejo
+   1 Alianța Dreptate și Adevăr
+   1 Algona
+   1 Alfred
+   1 Aleşd
+   1 Alexander
+   1 Alentejo
+   1 Alcorn
+   1 Alcatraz
+   1 Alcamo
+   1 Albuquerque
+   1 Albertville
+   1 Albaida del Aljarafe 2003–2011
+   1 Alaska.Johnson
+   1 Alajärvi
+   1 Alabama.Walker
+   1 Ala.
+   1 Al-Shabaab
+   1 Al-Aqsa Mosque
+   1 Al Jazeera
+   1 Aix-en-Provence
+   1 Aitape
+   1 Air Base
+   1 Agriculture
+   1 Agricultural Business
+   1 Agenţia de Monitorizare
+   1 Agency
+   1 Afrique
+   1 Advance
+   1 Adkins
+   1 Adelphi
+   1 Abruzzo
+   1 Aberdeen
+   1 Aalst
+   1 AS
+   1 ARMPAC
+   1 AK
+   1 ACRE
+   1 ACORN
+   1 96th St.
+   1 96
+   1 93
+   1 92nd House District
+   1 90
+   1 8th district
+   1 8th District of
+   1 87
+   1 82nd Airborne Division
+   1 8-way field
+   1 8-candidate field
+   1 7th–28th place
+   1 77
+   1 72nd House District
+   1 69th Assembly District
+   1 69
+   1 6531 Van Nuys Boulevard
+   1 62nd Street
+   1 6 percentage points
+   1 58th House
+   1 52nd congressional district
+   1 51st Assembly District
+   1 5 percentage points
+   1 4th Ward
+   1 4th District of
+   1 4th
+   1 49th District
+   1 46736
+   1 46410
+   1 440 Club
+   1 42nd congressional district
+   1 42nd House District
+   1 42nd District
+   1 41st House District
+   1 41st Assembly District
+   1 4.1 percentage points
+   1 3rd district
+   1 3rd
+   1 35th District
+   1 33672
+   1 2nd district from
+   1 2nd district
+   1 2nd District from
+   1 277th District Court
+   1 26th Judicial District Court
+   1 26-year-old Harold Ford
+   1 26 percentage points
+   1 25th combat mission
+   1 23887
+   1 22nd District from
+   1 21st of April
+   1 21st from
+   1 21st House District
+   1 21st District from
+   1 21st District
+   1 21st Congressional District
+   1 21st Century Cures
+   1 20515
+   1 20330
+   1 2013–2018
+   1 2004–2006 Lietz
+   1 2002–04
+   1 20 percentage points
+   1 1st of March 2018
+   1 1st Marine Division
+   1 1st March 2018
+   1 1st District
+   1 1st Circuit Judicial District
+   1 1st Cavalry Division
+   1 1st Brigade
+   1 1st Battalion
+   1 1995–1997
+   1 18th District
+   1 17894
+   1 172nd House
+   1 17 percentage points
+   1 16922
+   1 15-member monitoring mission
+   1 14th place
+   1 14th District
+   1 14709
+   1 13th District
+   1 13767
+   1 12281
+   1 121st appearance
+   1 12 percentage points
+   1 11177
+   1 10th House
+   1 102nd district from
+   1 102nd Congress
+   1 101st Airborne Division
+   1 , D.C.
+   1 (27.53%). 
+   1 's-Hertogenbosch
+   1 's JFK International Airport
+   1 's Hospital Center
+   1 's County
+   1 's Borough Hall
+   1 's Avenue

@@ -1,0 +1,661 @@
+ 729 president
+ 473 politician
+ 381 chairman
+ 360 candidate
+ 337 representative
+ 309 general
+ 304 mayor
+ 289 leader
+ 213 minister
+ 202 governor
+ 188 vice president
+ 162 director
+ 135 king
+ 115 prime minister
+ 112 attorney
+ 111 executive
+  99 doctor
+  98 speaker
+  98 author
+  86 congressman
+  85 senator
+  81 lawyer
+  79 actor
+  78 judge
+  71 student
+  70 professor
+  70 journalist
+  68 writer
+  60 spokesperson
+  59 vice chairman
+  54 actress
+  49 coach
+  48 singer
+  48 chairwoman
+  48 activist
+  47 bishop
+  46 manager
+  45 founder
+  45 footballer
+  45 businessman
+  43 spokesman
+  41 attorney general
+  40 prosecutor
+  39 editor
+  39 consultant
+  38 owner
+  37 assistant
+  36 secretary
+  36 lieutenant governor
+  34 deputy
+  32 executive director
+  31 dean
+  31 councillor
+  31 ceo
+  31 ambassador
+  29 producer
+  29 minority leader
+  28 reporter
+  27 legislator
+  27 diplomat
+  26 state senator
+  26 secretary general
+  26 musician
+  26 artist
+  24 critic
+  23 physician
+  23 host
+  23 historian
+  23 engineer
+  21 football player
+  21 first
+  21 composer
+  20 lieutenant
+  20 congresswoman
+  20 commander
+  20 co founder
+  19 pastor
+  19 administrator
+  18 party leader
+  18 lobbyist
+  18 foreign minister
+  18 economist
+  18 deputy leader
+  18 co chairman
+  18 captain
+  17 treasurer
+  17 model
+  17 colonel
+  16 chancellor
+  15 pilot
+  15 district attorney
+  15 deputy mayor
+  15 campaign manager
+  15 baseball player
+  14 poet
+  14 cook
+  14 cole
+  14 archbishop
+  13 wrestler
+  13 screenwriter
+  13 lecturer
+  13 intern
+  13 house speaker
+  13 deputy prime minister
+  13 companion
+  12 songwriter
+  12 rep.
+  12 rabbi
+  12 mobile
+  12 majority whip
+  12 entrepreneur
+  12 editor in chief
+  11 specialist
+  11 principal
+  11 philanthropist
+  11 lady
+  11 instructor
+  11 count
+  11 clerk
+  11 charter
+  11 chairperson
+  11 broadcaster
+  11 assistant professor
+  11 architect
+  10 supervisor
+  10 scholar
+  10 queen
+  10 pianist
+  10 painter
+  10 novelist
+  10 minority whip
+  10 lawmaker
+  10 justice minister
+  10 film director
+  10 businesswoman
+   9 translator
+   9 soldier
+   9 river
+   9 marine
+   9 lieutenant colonel
+   9 hockey player
+   9 deputy chairman
+   9 commentator
+   9 columnist
+   9 brigadier general
+   9 boss
+   8 shooter
+   8 presenter
+   8 police officer
+   8 party chairman
+   8 nurse
+   8 mailer
+   8 guide
+   8 driver
+   8 deputy director
+   8 deputy attorney general
+   8 creator
+   8 conductor
+   8 co owner
+   8 chief executive
+   8 boxer
+   8 basketball player
+   8 assemblyman
+   8 alderman
+   7 sociologist
+   7 social worker
+   7 sculptor
+   7 record producer
+   7 political scientist
+   7 playwright
+   7 organizer
+   7 missionary
+   7 guitarist
+   7 general counsel
+   7 farmer
+   7 designer
+   7 city councilman
+   7 chief justice
+   7 biologist
+   7 athlete
+   7 assistant minority leader
+   7 assistant district attorney
+   6 state treasurer
+   6 salesman
+   6 real estate developer
+   6 press secretary
+   6 political advisor
+   6 negotiator
+   6 master
+   6 major
+   6 interior minister
+   6 guard
+   6 dealer
+   6 cricketer
+   6 councilman
+   6 chief executive officer
+   6 cabinet minister
+   6 assistant attorney general
+   5 swimmer
+   5 spokeswoman
+   5 singer songwriter
+   5 scout
+   5 rower
+   5 registered nurse
+   5 real estate broker
+   5 psychologist
+   5 prince
+   5 pope
+   5 operator
+   5 mr
+   5 jurist
+   5 housewife
+   5 ecologist
+   5 drummer
+   5 director general
+   5 developer
+   5 deputy speaker
+   5 council member
+   5 correspondent
+   5 comedian
+   5 civil servant
+   5 chaplain
+   5 buyer
+   5 broker
+   5 banker
+   4 truck driver
+   4 surgeon
+   4 sports commentator
+   4 solicitor
+   4 sergeant
+   4 scientist
+   4 runner
+   4 referee
+   4 physicist
+   4 photojournalist
+   4 miss
+   4 manufacturer
+   4 management consultant
+   4 magistrate
+   4 ironworker
+   4 investment banker
+   4 intelligence officer
+   4 hunter
+   4 homemaker
+   4 geologist
+   4 general manager
+   4 earl
+   4 dictator
+   4 deputy secretary general
+   4 dentist
+   4 cyclist
+   4 counselor
+   4 controller
+   4 contractor
+   4 collector
+   4 cold
+   3 zoologist
+   3 voice actor
+   3 vice premier
+   3 veterinarian
+   3 technician
+   3 taxi driver
+   3 superintendent
+   3 strategist
+   3 servant
+   3 saxophonist
+   3 sales manager
+   3 research associate
+   3 quarterback
+   3 private
+   3 priest
+   3 press officer
+   3 president elect
+   3 premier
+   3 police chief
+   3 nun
+   3 notary
+   3 marshal
+   3 managing director
+   3 lieutenant general
+   3 librarian
+   3 inspector general
+   3 general secretary
+   3 firefighter
+   3 filmmaker
+   3 emir
+   3 duke
+   3 deputy commander
+   3 deputy chairwoman
+   3 defense minister
+   3 deacon
+   3 county commissioner
+   3 councilwoman
+   3 communications director
+   3 chief negotiator
+   3 chief financial officer
+   3 carver
+   3 cartoonist
+   3 cardiologist
+   3 caller
+   3 barrister
+   3 artistic director
+   3 announcer
+   3 analyst
+   3 administrative assistant
+   3 accountant
+   2 welder
+   2 waiter
+   2 violinist
+   2 vice minister
+   2 trainer
+   2 tier
+   2 stuntman
+   2 stand in
+   2 sprinter
+   2 smoker
+   2 senior director
+   2 rev.
+   2 restaurateur
+   2 reader
+   2 publicist
+   2 public relations officer
+   2 psychiatrist
+   2 project manager
+   2 printmaker
+   2 pr
+   2 placer
+   2 pirate
+   2 philologist
+   2 paralegal
+   2 news anchor
+   2 miner
+   2 midfielder
+   2 microbiologist
+   2 messiah
+   2 merchant
+   2 mercer
+   2 mechanic
+   2 martial artist
+   2 major general
+   2 machinist
+   2 m.
+   2 linguist
+   2 laborer
+   2 labor secretary
+   2 janitor
+   2 inventor
+   2 interior designer
+   2 industrialist
+   2 golfer
+   2 general councillor
+   2 forester
+   2 flight attendant
+   2 fire chief
+   2 film producer
+   2 field representative
+   2 executive vice president
+   2 executive secretary
+   2 executive producer
+   2 executive chairman
+   2 envoy
+   2 electrician
+   2 electrical engineer
+   2 deputy state treasurer
+   2 deputy secretary
+   2 deputy president
+   2 deputy premier
+   2 deputy majority whip
+   2 deputy inspector general
+   2 deputy general counsel
+   2 deputy district attorney
+   2 deputy assistant secretary
+   2 dancer
+   2 czar
+   2 councilor
+   2 cosmonaut
+   2 communications minister
+   2 cleaner
+   2 chief operating officer
+   2 chief minister
+   2 bassist
+   2 auditor
+   2 astronomer
+   2 assistant pastor
+   2 assistant minority whip
+   2 assistant deputy leader
+   2 assistant coach
+   2 art director
+   2 archaeologist
+   2 agriculture commissioner
+   1 yazidi activist
+   1 wide receiver
+   1 weightlifter
+   1 watchmaker
+   1 waitress
+   1 vocalist
+   1 vice premier candidate
+   1 vice mayor
+   1 vice chancellor
+   1 vicar
+   1 travel agent
+   1 trader
+   1 thrower
+   1 third
+   1 tenor
+   1 tennis player
+   1 teller
+   1 television director
+   1 telephone operator
+   1 technologist
+   1 technical director
+   1 tax attorney
+   1 switchboard operator
+   1 superior general
+   1 superior
+   1 stunt performer
+   1 student representative
+   1 student recruiter
+   1 student manager
+   1 student leader
+   1 student guard
+   1 striker
+   1 stockbroker
+   1 steward
+   1 statistician
+   1 state sen.
+   1 state rep.
+   1 stage director
+   1 stage designer
+   1 sr
+   1 sportswriter
+   1 sportsman
+   1 sports minister
+   1 soccer player
+   1 skier
+   1 shopkeeper
+   1 senior manager
+   1 secretary treasurer
+   1 second
+   1 seamstress
+   1 scoreboard operator
+   1 saint
+   1 sailor
+   1 rubber
+   1 rosh
+   1 reviewer
+   1 reverend
+   1 revd
+   1 retailer
+   1 rep
+   1 registrar
+   1 rector
+   1 rear admiral
+   1 real estate lawyer
+   1 real estate investor
+   1 radio director
+   1 racer
+   1 public speaker
+   1 provost
+   1 provincial governor
+   1 prostitute
+   1 prosecutor general
+   1 program manager
+   1 program coordinator
+   1 prof.
+   1 probation officer
+   1 private secretary
+   1 princess
+   1 primate
+   1 poker player
+   1 podiatrist
+   1 physician doctor
+   1 physician assistant
+   1 petty officer
+   1 personal trainer
+   1 pediatrician
+   1 pastoral assistant
+   1 party chief
+   1 orthodontist
+   1 ophthalmologist
+   1 offensive guard
+   1 obstetrician
+   1 nurse practitioner
+   1 nuclear engineer
+   1 nobel laureate attorney
+   1 neurologist
+   1 nanny
+   1 naacp activist
+   1 mycologist
+   1 mrs
+   1 mr.
+   1 movie director
+   1 motorcycle racer
+   1 monk
+   1 mineralogist
+   1 milkman
+   1 metrologist
+   1 meteorologist
+   1 messenger
+   1 merchant marine
+   1 medical examiner
+   1 mediator
+   1 meat cutter
+   1 marketing manager
+   1 marine colonel
+   1 major archbishop
+   1 maid
+   1 magician
+   1 lyricist
+   1 lumberjack
+   1 linebacker
+   1 lifeguard
+   1 lieutenant commander
+   1 landscape architect
+   1 landlord
+   1 kicker
+   1 judge executive
+   1 journalist writer
+   1 joker
+   1 jeweler
+   1 ironmonger
+   1 investigator
+   1 interim president
+   1 industrial engineer
+   1 immigration minister
+   1 imam
+   1 illustrator
+   1 humorist
+   1 housekeeper
+   1 hotel manager
+   1 honorary chairman
+   1 homeowner
+   1 hairstylist
+   1 gynecologist
+   1 gymnast
+   1 gubernatorial candidate
+   1 grip
+   1 graphic artist
+   1 grader
+   1 gondolier
+   1 geodesist
+   1 geneticist
+   1 gardener
+   1 fund manager
+   1 fullback
+   1 foster parent
+   1 foreign secretary
+   1 flutist
+   1 flight instructor
+   1 fire fighter
+   1 finance minister
+   1 finance director
+   1 femen activist
+   1 factory worker
+   1 explorer
+   1 executor
+   1 executive president
+   1 executive pastor
+   1 executive deputy chairman
+   1 executive coach
+   1 evangelist
+   1 escort
+   1 environment minister
+   1 ensign
+   1 empress
+   1 election commissioner
+   1 education minister
+   1 drifter
+   1 dramatist
+   1 dr
+   1 dj
+   1 deputy prosecutor general
+   1 deputy minority whip
+   1 deputy minister
+   1 deputy managing director
+   1 deputy lieutenant
+   1 deputy governor
+   1 deputy general secretary
+   1 deputy general manager
+   1 deputy general
+   1 deputy editor in chief
+   1 deputy chancellor
+   1 deputy campaign manager
+   1 deputy bishop
+   1 deputy assistant attorney general
+   1 deputy administrator
+   1 defensive coordinator
+   1 defense secretary
+   1 defender
+   1 defence minister
+   1 cutter
+   1 custodian
+   1 curator
+   1 cpls
+   1 countess
+   1 council chairman
+   1 costume designer
+   1 corporal
+   1 coroner
+   1 copywriter
+   1 cook county commissioner
+   1 consultant psychiatrist
+   1 constable
+   1 congressman king
+   1 computer scientist
+   1 computer programmer
+   1 comptroller
+   1 coast guard
+   1 coach assistant
+   1 clarinetist
+   1 civil engineer
+   1 city councilor
+   1 chief strategist
+   1 chief petty officer
+   1 chief information officer
+   1 cellist
+   1 casting director
+   1 cardinal
+   1 cameraman
+   1 cab driver
+   1 butler
+   1 bus driver
+   1 burner
+   1 builder
+   1 buffer
+   1 brigadier
+   1 bricklayer
+   1 border guard
+   1 bookseller
+   1 bookkeeper
+   1 bodyguard
+   1 board president
+   1 board chairman
+   1 blogger
+   1 beautician
+   1 barber
+   1 attorney general candidate
+   1 astrophysicist
+   1 astronaut
+   1 assistant vice president
+   1 assistant secretary
+   1 assistant press secretary
+   1 assistant president
+   1 assistant lecturer
+   1 assistant leader
+   1 assistant general counsel
+   1 assistant editor
+   1 assistant director
+   1 assistant designer
+   1 assistant commissioner
+   1 assistant administrator
+   1 assignment editor
+   1 assessor
+   1 art dealer
+   1 anthropologist
+   1 animator
+   1 agriculture minister
+   1 agricultural engineer
+   1 admiral
+   1 abbot
+   1 (29.6 percent) and 12,843
