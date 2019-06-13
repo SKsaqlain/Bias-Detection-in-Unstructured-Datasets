@@ -1,0 +1,3 @@
+--installing plotly(*run one of the below commands)
+conda install -c plotly plotly 
+pip install plotly
